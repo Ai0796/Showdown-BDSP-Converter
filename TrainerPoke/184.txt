@@ -1,9 +1,0 @@
-Turtwig 
-Ability: Overgrow
-Level: 17
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
-Adamant Nature
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
-- Tackle
-- Iron Tail
-- Bullet Seed

@@ -1,9 +1,0 @@
-Roselia 
-Ability: Poison Point
-Level: 55
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
-Timid Nature
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
-- Giga Drain
-- Toxic
-- Petal Blizzard
