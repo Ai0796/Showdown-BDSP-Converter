@@ -62,7 +62,9 @@ japaneseStatList = ["Hp", "Atk", "Def", "SpAtk", "SpDef", "Agi"]
 
 if not os.path.exists(src):
     print("Error, masterdatas not found")
+    print("Press any Key to Exit...")
     input()
+    exit()
 
 for outputPath in fileList:
     if not os.path.exists(outputPath):
@@ -160,4 +162,5 @@ for obj in env.objects:
                     
                     
 print("Finished Extracting masterdatas")
+print("Press any Key to Exit...")
 input()

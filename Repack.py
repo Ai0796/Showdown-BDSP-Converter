@@ -119,17 +119,20 @@ for obj in env.objects:
                             team[i] = team[i].strip()
                         if len(breakpoints) > 1:
                             breakpoints.append(len(team))
+                        print(breakpoints)
                                 
                         # print(breakpoints)
                         pokeNum = 0
                         for point in range(len(breakpoints) - 1):
+                            
                             pokeNum += 1
+                            hasIV = False
                             
                             ##Name and Ability are always present so we don't need to perform checks
                             firstLine = team[breakpoints[point]]
                             secondLine = team[breakpoints[point] + 1]
-                            # print(firstLine)
-                            # print(secondLine)
+                            print(firstLine)
+                            print(secondLine)
                             try:
                                 trainer["P"f"{pokeNum}MonsNo"] = name(firstLine.split(" ")[0].upper())
                             except:
@@ -152,7 +155,7 @@ for obj in env.objects:
                                 trainer["P"f"{pokeNum}Level"] = 100 ##Level is 100 if not shown
                             
                             moveNum = 0
-                            for line in range(breakpoints[point] + 2, breakpoints[1]):
+                            for line in range(breakpoints[point] + 2, breakpoints[point + 1]):
                                 # Pokemon Showdown Format
                                 # PokemonName (Gender) @ HeldItem
                                 # Ability: AbilityName
@@ -166,35 +169,44 @@ for obj in env.objects:
                                 # - Move3
                                 # - Move4
                                 ##Move
+                                print(team[line].upper())
                                 pokemon = team[line].upper()
-                                if "-" in pokemon:
+                                # print(pokemon)
+                                if "-" in team[line]:
                                     moveNum += 1
                                     trainer["P"f"{pokeNum}Waza"f"{moveNum}"] = moveList.index(pokemon.strip(" -"))
                                     
                                 elif "NATURE" in pokemon:
                                     trainer["P"f"{pokeNum}Seikaku"] = natureList.index(pokemon.split(" ")[0])
                                     
-                                elif "SHINY:" in pokemon:
+                                elif "SHINY" in pokemon:
                                     ##Shiny should only be present if it is, so not gonna bother checking Shiny: N
                                     trainer["P"f"{pokeNum}IsRare"] = 1
                                     
-                                elif "LEVEL:" in pokemon:
+                                elif "LEVEL" in pokemon:
                                     trainer["P"f"{pokeNum}Level"] = int(pokemon.split(" ")[1])
                                     
-                                elif "EVS:" in pokemon:
+                                elif "EVS" in pokemon:
                                     EVdic = formatStat(pokemon[4:].split("/"))
                                     for key in EVdic.keys():
                                         trainer["P"f"{pokeNum}Effort{key}"] = EVdic[key]
                                         
                                 elif "IVS"  in pokemon:
+                                    hasIV = True
                                     IVdic = formatStat(pokemon[4:].split("/"))
                                     for key in IVdic.keys():
                                         trainer["P"f"{pokeNum}Talent{key}"] = IVdic[key]
                                         
+                                else:
+                                    print(pokemon)
+                                    
+                            if not hasIV:
+                                for i in japaneseStatList:
+                                    trainer["P"f"{pokeNum}Talent{i}"] = 31
+                                        
                     except:
                         print("An Error has occured while packing "f"{fp}")
                         print(traceback.format_exc())
-                                            
                                         
                 else:
                     print("Error "f"{fp} not found")                     
@@ -206,3 +218,7 @@ for obj in env.objects:
                         
 with open("masterdatasEDITED", "wb") as f:
     f.write(env.file.save(packer = (64,2)))      
+    
+print("Finished Repacking masterdatas into masterdatasEDITED")
+print("Press any Key to Exit...")
+input()
