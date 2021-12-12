@@ -1,0 +1,65 @@
+Wormadam (M) @ White Herb
+Ability: Overcoat
+Level: 58
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 6 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Leaf Storm
+- Bug Buzz
+- Psychic
+- Quiver Dance
+
+Tangrowth (M) @ Choice Specs
+Ability: Regenerator
+Level: 59
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 6 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Energy Ball
+- Sludge Bomb
+- Focus Blast
+- Hyper Beam
+
+Froslass (M) @ Focus Sash
+Ability: Cursed Body
+Level: 60
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Hex
+- Frost Breath
+- Thunderbolt
+- Will-O-Wisp
+
+Magmortar (M) @ Expert Belt
+Ability: Vital Spirit
+Level: 59
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 6 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Fire Blast
+- Focus Blast
+- Thunderbolt
+- Will-O-Wisp
+
+Clefable (M) @ Sitrus Berry
+Ability: Unaware
+Level: 60
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Moonblast
+- Calm Mind
+- Moonlight
+- Minimize
+
+Empoleon @ Leftovers
+Ability: Torrent
+Level: 64
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 6 Spe 
+Hardy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Hydro Pump
+- Flash Cannon
+- Ice Beam
+- Grass Knot

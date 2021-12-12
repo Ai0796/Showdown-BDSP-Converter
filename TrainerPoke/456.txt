@@ -1,0 +1,32 @@
+Dunsparce 
+Ability: Serene Grace
+Level: 56
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Serious Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Glare
+- Double-Edge
+- Coil
+- Flail
+
+Scyther 
+Ability: Swarm
+Level: 56
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Careful Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- X-Scissor
+- Slash
+- Wing Attack
+- Fury Cutter
+
+Marowak 
+Ability: Rock Head
+Level: 56
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Serious Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Thrash
+- Bonemerang
+- Bone Rush
+- Retaliate

@@ -1,0 +1,21 @@
+Aipom 
+Ability: Pickup
+Level: 41
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Astonish
+- Tickle
+- Double Hit
+- Fling
+
+Azumarill 
+Ability: Thick Fat
+Level: 39
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Bubble Beam
+- Slam
+- Bounce
+- Play Rough

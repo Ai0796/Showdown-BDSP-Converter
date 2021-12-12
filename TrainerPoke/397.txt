@@ -1,0 +1,31 @@
+Wurmple 
+Ability: Shield Dust
+Level: 34
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Serious Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tackle
+- String Shot
+- Poison Sting
+- Bug Bite
+
+Silcoon 
+Ability: Shed Skin
+Level: 36
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bashful Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tackle
+- Poison Sting
+- Harden
+
+Beautifly 
+Ability: Swarm
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Quirky Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Air Cutter
+- Leech Life
+- Attract
+- Bug Buzz

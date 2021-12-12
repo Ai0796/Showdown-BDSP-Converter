@@ -1,0 +1,21 @@
+Trapinch 
+Ability: Hyper Cutter
+Level: 54
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Crunch
+- Sand Tomb
+- Dig
+- Sandstorm
+
+Vibrava 
+Ability: Levitate
+Level: 56
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Impish Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Supersonic
+- Bug Buzz
+- Earth Power
+- Dragon Breath

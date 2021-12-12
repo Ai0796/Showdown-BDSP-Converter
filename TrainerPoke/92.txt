@@ -1,0 +1,32 @@
+Cranidos 
+Ability: Mold Breaker
+Level: 24
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Headbutt
+- Leer
+- Scary Face
+- Assurance
+
+Geodude 
+Ability: Sturdy
+Level: 22
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Sandstorm
+- Harden
+- Smack Down
+- Bulldoze
+
+Bronzor 
+Ability: Levitate
+Level: 23
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Confusion
+- Confuse Ray
+- Payback
+- Gyro Ball

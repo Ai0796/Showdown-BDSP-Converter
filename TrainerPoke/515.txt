@@ -1,0 +1,32 @@
+Sudowoodo 
+Ability: Sturdy
+Level: 52
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Impish Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Flail
+- Tearful Look
+- Sucker Punch
+- Counter
+
+Roselia 
+Ability: Poison Point
+Level: 51
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bold Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Leech Seed
+- Giga Drain
+- Synthesis
+- Toxic
+
+Raichu 
+Ability: Static
+Level: 53
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bold Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Nuzzle
+- Charm
+- Spark
+- Discharge

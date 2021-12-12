@@ -1,0 +1,54 @@
+Houndoom @ Wise Glasses
+Ability: Unnerve
+Level: 68
+EVs: 52 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 204 Spe 
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Flamethrower
+- Dark Pulse
+- Destiny Bond
+- Nasty Plot
+
+Flareon @ Sitrus Berry
+Ability: Flash Fire
+Level: 71
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Flare Blitz
+- Flail
+- Will-O-Wisp
+- Quick Attack
+
+Rapidash @ Wide Lens
+Ability: Flame Body
+Level: 69
+EVs: 52 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 204 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Flare Blitz
+- Iron Tail
+- Poison Jab
+- Hypnosis
+
+Infernape @ Focus Sash
+Ability: Iron Fist
+Level: 71
+EVs: 52 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 204 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Fire Punch
+- Thunder Punch
+- Close Combat
+- Mach Punch
+
+Magmortar @ Lum Berry
+Ability: Flame Body
+Level: 73
+EVs: 52 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 204 Spe 
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Fire Blast
+- Thunderbolt
+- Focus Blast
+- Psychic

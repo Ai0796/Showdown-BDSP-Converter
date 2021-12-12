@@ -1,0 +1,31 @@
+{
+    "TypeID": 12,
+    "ColorID": 0,
+    "FightType": 0,
+    "ArenaID": -1,
+    "EffectID": -1,
+    "Gold": 9,
+    "UseItem1": 0,
+    "UseItem2": 0,
+    "UseItem3": 0,
+    "UseItem4": 0,
+    "HpRecoverFlag": 0,
+    "GiftItem": 0,
+    "NameLabel": "DP_Trainers_Name_TR_FISHING_23",
+    "MsgFieldPokeOne": "",
+    "MsgFieldBefore": "1-FISHING_14_TRMSG_REVENGE_FIGHT_START",
+    "MsgFieldRevenge": "1-FISHING_14_TRMSG_REVENGE_FIGHT_START",
+    "MsgFieldAfter": "1-FISHING_14_TRMSG_FIGHT_AFTER",
+    "MsgBattle": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1-FISHING_23_TRMSG_FIGHT_LOSE",
+        "ee501"
+    ],
+    "SeqBattle": [],
+    "AIBit": 9
+}

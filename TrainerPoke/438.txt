@@ -1,0 +1,21 @@
+Lickitung 
+Ability: Own Tempo
+Level: 53
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Slam
+- Knock Off
+- Stomp
+- Lick
+
+Miltank 
+Ability: Scrappy
+Level: 53
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Milk Drink
+- Body Slam
+- Charm
+- Play Rough

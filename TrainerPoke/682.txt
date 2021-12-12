@@ -1,0 +1,62 @@
+Skarmory @ Leftovers
+Ability: Sturdy
+Level: 69
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 6 Spe 
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Steel Wing
+- Stealth Rock
+- Iron Defense
+- Taunt
+
+Steelix @ Life Orb
+Ability: Sheer Force
+Level: 69
+EVs: 76 HP / 252 Atk / 0 Def / 0 SpA / 180 SpD / 0 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Iron Tail
+- Earthquake
+- Ice Fang
+- Crunch
+
+Magnezone @ Focus Sash
+Ability: Analytic
+Level: 70
+EVs: 248 HP / 0 Atk / 0 Def / 252 SpA / 8 SpD / 0 Spe 
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe 
+- Thunderbolt
+- Flash Cannon
+- Light Screen
+- Magnet Rise
+
+Empoleon @ Expert Belt
+Ability: Torrent
+Level: 70
+EVs: 244 HP / 0 Atk / 0 Def / 252 SpA / 12 SpD / 0 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Hydro Pump
+- Flash Cannon
+- Ice Beam
+- Roar
+
+Aggron @ Choice Scarf
+Ability: Rock Head
+Level: 71
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Head Smash
+
+Bastiodon @ Lum Berry
+Ability: Sturdy
+Level: 72
+EVs: 252 HP / 0 Atk / 16 Def / 0 SpA / 240 SpD / 0 Spe 
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Heavy Slam
+- Metal Burst
+- Roar
+- Stealth Rock

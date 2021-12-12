@@ -1,0 +1,32 @@
+Mantyke 
+Ability: Water Absorb
+Level: 26
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tackle
+- Supersonic
+- Wing Attack
+- Bubble Beam
+
+Remoraid 
+Ability: Sniper
+Level: 29
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Focus Energy
+- Aurora Beam
+- Bubble Beam
+- Bullet Seed
+
+Tentacool 
+Ability: Clear Body
+Level: 29
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Poison Sting
+- Acid
+- Water Pulse
+- Hex

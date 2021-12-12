@@ -1,0 +1,32 @@
+Mantyke 
+Ability: Water Absorb
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Supersonic
+- Bubble Beam
+- Air Slash
+- Aqua Ring
+
+Remoraid 
+Ability: Hustle
+Level: 40
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Lock-On
+- Bullet Seed
+- Ice Beam
+- Hydro Pump
+
+Mantine 
+Ability: Water Absorb
+Level: 42
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Bullet Seed
+- Bubble Beam
+- Aqua Ring
+- Bounce

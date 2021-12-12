@@ -1,0 +1,54 @@
+Whiscash (M) @ Rindo Berry
+Ability: Hydration
+Level: 66
+EVs: 0 HP / 252 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe 
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe 
+- Earthquake
+- Ice Beam
+- Scald
+- Zen Headbutt
+
+Gliscor (M) @ Sitrus Berry
+Ability: Hyper Cutter
+Level: 69
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Earthquake
+- Thunder Fang
+- Guillotine
+- X-Scissor
+
+Golem (M) @ Soft Sand
+Ability: Sturdy
+Level: 68
+EVs: 52 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 204 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Rock Polish
+- Heavy Slam
+- Earthquake
+- Stone Edge
+
+Hippowdon (M) @ Chesto Berry
+Ability: Sand Stream
+Level: 68
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Ice Fang
+- Earthquake
+- Crunch
+- Rest
+
+Rhyperior (M) @ Muscle Band
+Ability: Solid Rock
+Level: 71
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Earthquake
+- Rock Wrecker
+- Megahorn
+- Thunder Fang

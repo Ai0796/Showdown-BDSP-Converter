@@ -1,0 +1,32 @@
+Cherubi (M) 
+Ability: Chlorophyll
+Level: 19
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Grass Knot
+- Growth
+- Dazzling Gleam
+- Safeguard
+
+Turtwig @ Miracle Seed
+Ability: Shell Armor
+Level: 19
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Grass Knot
+- Razor Leaf
+- Reflect
+- Work Up
+
+Roserade (M) @ Sitrus Berry
+Ability: Technician
+Level: 22
+EVs: 0 HP / 36 Atk / 0 Def / 36 SpA / 0 SpD / 36 Spe 
+Timid Nature
+IVs: 0 HP / 15 Atk / 0 Def / 15 SpA / 0 SpD / 15 Spe 
+- Grass Knot
+- Petal Blizzard
+- Poison Sting
+- Stun Spore

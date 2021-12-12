@@ -1,0 +1,21 @@
+Onix 
+Ability: Rock Head
+Level: 29
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Curse
+- Rock Slide
+- Screech
+- Sand Tomb
+
+Steelix 
+Ability: Rock Head
+Level: 33
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Crunch
+- Thunder Fang
+- Ice Fang
+- Rock Slide

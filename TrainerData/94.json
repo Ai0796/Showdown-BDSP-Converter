@@ -1,0 +1,31 @@
+{
+    "TypeID": 94,
+    "ColorID": 0,
+    "FightType": 0,
+    "ArenaID": 29,
+    "EffectID": -1,
+    "Gold": 11,
+    "UseItem1": 0,
+    "UseItem2": 0,
+    "UseItem3": 0,
+    "UseItem4": 0,
+    "HpRecoverFlag": 0,
+    "GiftItem": 0,
+    "NameLabel": "DP_Trainers_Name_TR_GINGAW_16",
+    "MsgFieldPokeOne": "",
+    "MsgFieldBefore": "",
+    "MsgFieldRevenge": "",
+    "MsgFieldAfter": "",
+    "MsgBattle": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1-GINGAW_16_TRMSG_FIGHT_LOSE",
+        "ee501"
+    ],
+    "SeqBattle": [],
+    "AIBit": 9
+}

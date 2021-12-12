@@ -1,0 +1,54 @@
+Dustox @ Black Sludge
+Ability: Shield Dust
+Level: 53
+EVs: 252 HP / 0 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe 
+Bold Nature
+IVs: 31 HP / 0 Atk / 21 Def / 21 SpA / 21 SpD / 31 Spe 
+- Toxic
+- Bug Buzz
+- Moonlight
+- Light Screen
+
+Beautifly @ Wise Glasses
+Ability: Swarm
+Level: 53
+EVs: 12 HP / 0 Atk / 12 Def / 60 SpA / 12 SpD / 204 Spe 
+Modest Nature
+IVs: 21 HP / 0 Atk / 21 Def / 31 SpA / 21 SpD / 31 Spe 
+- Bug Buzz
+- Shadow Ball
+- Psychic
+- Quiver Dance
+
+Vespiquen (M) @ Sitrus Berry
+Ability: Unnerve
+Level: 54
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Acrobatics
+- Attack Order
+- Aerial Ace
+- Defend Order
+
+Heracross @ Flame Orb
+Ability: Guts
+Level: 54
+EVs: 12 HP / 60 Atk / 12 Def / 0 SpA / 12 SpD / 204 Spe 
+Jolly Nature
+IVs: 21 HP / 31 Atk / 21 Def / 0 SpA / 21 SpD / 31 Spe 
+- Earthquake
+- Rock Slide
+- Facade
+- Brick Break
+
+Drapion @ Scope Lens
+Ability: Sniper
+Level: 57
+EVs: 12 HP / 60 Atk / 0 Def / 0 SpA / 0 SpD / 204 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Cross Poison
+- Night Slash
+- Earthquake
+- X-Scissor

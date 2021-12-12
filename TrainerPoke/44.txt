@@ -1,0 +1,54 @@
+Bidoof 
+Ability: Unaware
+Level: 14
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Defense Curl
+- Rollout
+- Headbutt
+
+Bidoof 
+Ability: Unaware
+Level: 15
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Defense Curl
+- Rollout
+- Headbutt
+
+Bidoof 
+Ability: Unaware
+Level: 16
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Defense Curl
+- Rollout
+- Headbutt
+
+Bidoof 
+Ability: Unaware
+Level: 15
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Defense Curl
+- Rollout
+- Headbutt
+
+Bidoof 
+Ability: Unaware
+Level: 15
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Defense Curl
+- Rollout
+- Headbutt

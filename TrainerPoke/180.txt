@@ -1,0 +1,32 @@
+Onix 
+Ability: Rock Head
+Level: 28
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Smack Down
+- Sand Tomb
+- Iron Tail
+- Sandstorm
+
+Onix 
+Ability: Rock Head
+Level: 28
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Screech
+- Iron Tail
+- Rock Tomb
+- Bulldoze
+
+Onix 
+Ability: Rock Head
+Level: 28
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Screech
+- Iron Tail
+- Rock Tomb
+- Bulldoze

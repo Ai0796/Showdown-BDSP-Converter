@@ -1,0 +1,32 @@
+Golbat (M) 
+Ability: Inner Focus
+Level: 37
+EVs: 68 HP / 0 Atk / 68 Def / 0 SpA / 68 SpD / 0 Spe 
+Jolly Nature
+IVs: 15 HP / 0 Atk / 15 Def / 0 SpA / 15 SpD / 0 Spe 
+- Astonish
+- Poison Fang
+- Bite
+- U-turn
+
+Bronzor 
+Ability: Levitate
+Level: 37
+EVs: 68 HP / 0 Atk / 68 Def / 0 SpA / 68 SpD / 0 Spe 
+Sassy Nature
+IVs: 15 HP / 0 Atk / 15 Def / 0 SpA / 15 SpD / 0 Spe 
+- Confuse Ray
+- Payback
+- Gyro Ball
+- Iron Defense
+
+Purugly (M) @ Sitrus Berry
+Ability: Thick Fat
+Level: 39
+EVs: 68 HP / 0 Atk / 68 Def / 0 SpA / 68 SpD / 0 Spe 
+Jolly Nature
+IVs: 15 HP / 0 Atk / 15 Def / 0 SpA / 15 SpD / 0 Spe 
+- Growl
+- Aerial Ace
+- Slash
+- U-turn

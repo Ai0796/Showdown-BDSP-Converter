@@ -1,0 +1,21 @@
+Baltoy 
+Ability: Levitate
+Level: 54
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Calm Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Earth Power
+- Extrasensory
+- Rock Tomb
+- Ancient Power
+
+Grumpig 
+Ability: Thick Fat
+Level: 58
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bold Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Psychic
+- Power Gem
+- Magic Coat
+- Payback

@@ -1,0 +1,43 @@
+Starly @ Quick Claw
+Ability: Keen Eye
+Level: 26
+EVs: 28 HP / 52 Atk / 12 Def / 0 SpA / 12 SpD / 52 Spe 
+Jolly Nature
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe 
+- Quick Attack
+- Double Team
+- Endeavor
+- Pluck
+
+Buizel @ Sea Incense
+Ability: Swift Swim
+Level: 26
+EVs: 0 HP / 44 Atk / 12 Def / 0 SpA / 12 SpD / 36 Spe 
+Jolly Nature
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe 
+- Tail Whip
+- Bite
+- Swift
+- Aqua Jet
+
+Roselia @ Miracle Seed
+Ability: Poison Point
+Level: 27
+EVs: 4 HP / 0 Atk / 12 Def / 44 SpA / 12 SpD / 12 Spe 
+Timid Nature
+IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe 
+- Poison Sting
+- Mega Drain
+- Sweet Scent
+- Grass Knot
+
+Monferno @ Shell Bell
+Ability: Blaze
+Level: 31
+EVs: 36 HP / 52 Atk / 12 Def / 0 SpA / 12 SpD / 52 Spe 
+Jolly Nature
+IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe 
+- Mach Punch
+- Leer
+- Power-Up Punch
+- Flame Wheel

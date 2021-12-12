@@ -1,0 +1,31 @@
+{
+    "TypeID": 2,
+    "ColorID": 0,
+    "FightType": 0,
+    "ArenaID": -1,
+    "EffectID": -1,
+    "Gold": 5,
+    "UseItem1": 0,
+    "UseItem2": 0,
+    "UseItem3": 0,
+    "UseItem4": 0,
+    "HpRecoverFlag": 0,
+    "GiftItem": 0,
+    "NameLabel": "DP_Trainers_Name_TR_TANPAN_24",
+    "MsgFieldPokeOne": "",
+    "MsgFieldBefore": "1-TANPAN_13_TRMSG_REVENGE_FIGHT_START",
+    "MsgFieldRevenge": "1-TANPAN_13_TRMSG_REVENGE_FIGHT_START",
+    "MsgFieldAfter": "1-TANPAN_13_TRMSG_FIGHT_AFTER",
+    "MsgBattle": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1-TANPAN_24_TRMSG_FIGHT_LOSE",
+        "ee501"
+    ],
+    "SeqBattle": [],
+    "AIBit": 9
+}

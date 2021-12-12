@@ -1,0 +1,21 @@
+Goldeen 
+Ability: Water Veil
+Level: 28
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Peck
+- Supersonic
+- Water Pulse
+- Horn Attack
+
+Buizel 
+Ability: Swift Swim
+Level: 30
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tail Whip
+- Bite
+- Swift
+- Aqua Jet

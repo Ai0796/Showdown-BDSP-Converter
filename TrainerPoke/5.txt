@@ -1,0 +1,22 @@
+Gyarados @ Leftovers  
+Ability: Moxie  
+Level: 14
+Shiny: Yes    
+EVs: 88 HP / 248 Atk / 4 Def / 168 Spe  
+Jolly Nature  
+- Substitute  
+- Dragon Dance  
+- Waterfall  
+- Bounce  
+
+Staraptor @ Choice Scarf  
+Ability: Reckless  
+Level: 14
+Shiny: Yes    
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Brave Bird  
+- Double-Edge  
+- Close Combat  
+- U-turn  
+

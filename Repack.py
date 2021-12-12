@@ -2,6 +2,7 @@ import UnityPy
 import os
 import json
 import traceback
+import sys
 
 
 #PathIDs inside Unity
@@ -82,9 +83,9 @@ for outputPath in fileList:
     if not os.path.exists(outputPath):
         print("Error, "f"{outputPath} Does not exist")
         
-    print("Press enter to Exit...")
-    input()
-    quit()
+        print("Press enter to Exit...")
+        input()
+        sys.exit()
 
 for obj in env.objects:
     if obj.path_id in pathList:
@@ -123,7 +124,6 @@ for obj in env.objects:
                             team[i] = team[i].strip()
                         if len(breakpoints) > 1:
                             breakpoints.append(len(team))
-                        print(breakpoints)
                                 
                         # print(breakpoints)
                         pokeNum = 0
@@ -135,8 +135,6 @@ for obj in env.objects:
                             ##Name and Ability are always present so we don't need to perform checks
                             firstLine = team[breakpoints[point]]
                             secondLine = team[breakpoints[point] + 1]
-                            print(firstLine)
-                            print(secondLine)
                             try:
                                 trainer["P"f"{pokeNum}MonsNo"] = name(firstLine.split(" ")[0].upper())
                             except:
@@ -159,7 +157,7 @@ for obj in env.objects:
                                 trainer["P"f"{pokeNum}Level"] = 100 ##Level is 100 if not shown
                             
                             moveNum = 0
-                            for line in range(breakpoints[point] + 2, breakpoints[point + 1]):
+                            for line in range(breakpoints[point] + 1, breakpoints[point + 1]):
                                 # Pokemon Showdown Format
                                 # PokemonName (Gender) @ HeldItem
                                 # Ability: AbilityName
@@ -173,7 +171,6 @@ for obj in env.objects:
                                 # - Move3
                                 # - Move4
                                 ##Move
-                                print(team[line].upper())
                                 pokemon = team[line].upper()
                                 # print(pokemon)
                                 if "-" in team[line]:
@@ -200,9 +197,6 @@ for obj in env.objects:
                                     IVdic = formatStat(pokemon[4:].split("/"))
                                     for key in IVdic.keys():
                                         trainer["P"f"{pokeNum}Talent{key}"] = IVdic[key]
-                                        
-                                else:
-                                    print(pokemon)
                                     
                             if not hasIV:
                                 for i in japaneseStatList:

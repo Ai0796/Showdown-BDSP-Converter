@@ -1,0 +1,20 @@
+Golbat 
+Ability: Inner Focus
+Level: 36
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Serious Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Poison Fang
+- Quick Guard
+- Air Cutter
+- Bite
+
+Silcoon 
+Ability: Shed Skin
+Level: 34
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bashful Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tackle
+- Poison Sting
+- Harden

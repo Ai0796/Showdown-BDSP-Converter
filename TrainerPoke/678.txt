@@ -1,0 +1,65 @@
+Politoed @ Damp Rock
+Ability: Drizzle
+Level: 68
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Surf
+- Ice Beam
+- Focus Blast
+- Perish Song
+
+Kingdra @ Chesto Berry
+Ability: Swift Swim
+Level: 68
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Hydro Pump
+- Dragon Pulse
+- Ice Beam
+- Rest
+
+Ludicolo @ Sitrus Berry
+Ability: Swift Swim
+Level: 68
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Energy Ball
+- Hydro Pump
+- Substitute
+- Teeter Dance
+
+Huntail @ Focus Sash
+Ability: Swift Swim
+Level: 70
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Crunch
+- Aqua Tail
+- Ice Fang
+- Shell Smash
+
+Gyarados @ Wacan Berry
+Ability: Intimidate
+Level: 70
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Aqua Tail
+- Stone Edge
+- Earthquake
+- Dragon Dance
+
+Floatzel @ Life Orb
+Ability: Swift Swim
+Level: 72
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Aqua Tail
+- Brick Break
+- Crunch
+- Ice Fang

@@ -1,0 +1,43 @@
+Pikachu 
+Ability: Static
+Level: 41
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Nuzzle
+- Charm
+- Spark
+- Light Screen
+
+Pikachu 
+Ability: Static
+Level: 41
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Charm
+- Double Team
+- Spark
+- Light Screen
+
+Pikachu 
+Ability: Static
+Level: 41
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Charm
+- Electro Ball
+- Agility
+- Light Screen
+
+Pikachu 
+Ability: Static
+Level: 41
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Charm
+- Nasty Plot
+- Thunderbolt
+- Light Screen

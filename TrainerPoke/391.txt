@@ -1,0 +1,32 @@
+Croagunk 
+Ability: Anticipation
+Level: 35
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bashful Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Taunt
+- Revenge
+- Sucker Punch
+- Poison Jab
+
+Stunky 
+Ability: Aftermath
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Venoshock
+- Screech
+- Toxic
+- Night Slash
+
+Croagunk 
+Ability: Anticipation
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Quirky Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Revenge
+- Venoshock
+- Sucker Punch
+- Toxic

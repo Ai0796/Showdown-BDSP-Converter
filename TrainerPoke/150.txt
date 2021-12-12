@@ -1,0 +1,26 @@
+Wurmple 
+Ability: Shield Dust
+Level: 9
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Naive Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tackle
+- String Shot
+- Poison Sting
+
+Silcoon 
+Ability: Shed Skin
+Level: 11
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Naive Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Harden
+
+Beautifly 
+Ability: Swarm
+Level: 13
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Docile Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Gust
+- Absorb

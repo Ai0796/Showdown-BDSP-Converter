@@ -1,0 +1,21 @@
+Skorupi 
+Ability: Battle Armor
+Level: 27
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Naive Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Hone Claws
+- Poison Fang
+- Bug Bite
+- Knock Off
+
+Golbat 
+Ability: Inner Focus
+Level: 27
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Screech
+- Absorb
+- Poison Fang
+- Air Cutter

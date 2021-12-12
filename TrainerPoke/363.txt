@@ -1,0 +1,32 @@
+Pelipper 
+Ability: Drizzle
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bold Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Air Slash
+- Tailwind
+- Water Pulse
+- Stockpile
+
+Machoke 
+Ability: No Guard
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Leer
+- Low Sweep
+- Knock Off
+- Dual Chop
+
+Gastrodon 
+Ability: Storm Drain
+Level: 44
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Recover
+- Ancient Power
+- Muddy Water
+- Earth Power

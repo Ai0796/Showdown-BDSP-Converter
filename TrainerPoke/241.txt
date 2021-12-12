@@ -1,0 +1,32 @@
+Gyarados @ Wide Lens
+Ability: Intimidate
+Level: 27
+EVs: 40 HP / 56 Atk / 0 Def / 0 SpA / 0 SpD / 40 Spe 
+Jolly Nature
+IVs: 16 HP / 16 Atk / 0 Def / 0 SpA / 0 SpD / 16 Spe 
+- Brine
+- Ice Fang
+- Crunch
+- Flail
+
+Quagsire @ Damp Rock
+Ability: Damp
+Level: 27
+EVs: 40 HP / 40 Atk / 4 Def / 56 SpA / 4 SpD / 0 Spe 
+Quiet Nature
+IVs: 16 HP / 16 Atk / 5 Def / 16 SpA / 5 SpD / 0 Spe 
+- Rain Dance
+- Haze
+- Mud Shot
+- Scald
+
+Floatzel @ Sitrus Berry
+Ability: Swift Swim
+Level: 30
+EVs: 0 HP / 84 Atk / 0 Def / 20 SpA / 0 SpD / 84 Spe 
+Adamant Nature
+IVs: 0 HP / 17 Atk / 0 Def / 17 SpA / 0 SpD / 17 Spe 
+- Brine
+- Ice Fang
+- Bite
+- Aqua Jet

@@ -1,0 +1,31 @@
+{
+    "TypeID": 55,
+    "ColorID": 0,
+    "FightType": 0,
+    "ArenaID": -1,
+    "EffectID": -1,
+    "Gold": 7,
+    "UseItem1": 0,
+    "UseItem2": 0,
+    "UseItem3": 0,
+    "UseItem4": 0,
+    "HpRecoverFlag": 0,
+    "GiftItem": 0,
+    "NameLabel": "DP_Trainers_Name_TR_GUITARIST_14",
+    "MsgFieldPokeOne": "",
+    "MsgFieldBefore": "1-GUITARIST_03_TRMSG_REVENGE_FIGHT_START",
+    "MsgFieldRevenge": "1-GUITARIST_03_TRMSG_REVENGE_FIGHT_START",
+    "MsgFieldAfter": "1-GUITARIST_03_TRMSG_FIGHT_AFTER",
+    "MsgBattle": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1-GUITARIST_14_TRMSG_FIGHT_LOSE",
+        "ee501"
+    ],
+    "SeqBattle": [],
+    "AIBit": 9
+}

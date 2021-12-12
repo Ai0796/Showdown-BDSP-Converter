@@ -1,0 +1,32 @@
+Monferno 
+Ability: Blaze
+Level: 39
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Leer
+- Flame Wheel
+- Torment
+- Close Combat
+
+Luxio 
+Ability: Intimidate
+Level: 39
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Leer
+- Bite
+- Spark
+- Scary Face
+
+Gyarados 
+Ability: Intimidate
+Level: 39
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Leer
+- Brine
+- Rain Dance
+- Aqua Tail

@@ -1,0 +1,21 @@
+Loudred 
+Ability: Soundproof
+Level: 57
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Docile Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Hyper Voice
+- Roar
+- Rest
+- Sleep Talk
+
+Rampardos 
+Ability: Mold Breaker
+Level: 57
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Zen Headbutt
+- Take Down
+- Assurance
+- Swords Dance

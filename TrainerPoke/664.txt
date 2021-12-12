@@ -1,0 +1,65 @@
+Staraptor @ Focus Sash
+Ability: Intimidate
+Level: 58
+EVs: 60 HP / 132 Atk / 36 Def / 0 SpA / 36 SpD / 244 Spe 
+Jolly Nature
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe 
+- Close Combat
+- Pluck
+- Steel Wing
+- U-turn
+
+Floatzel @ Quick Claw
+Ability: Swift Swim
+Level: 59
+EVs: 40 HP / 136 Atk / 40 Def / 0 SpA / 40 SpD / 248 Spe 
+Jolly Nature
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe 
+- Ice Fang
+- Crunch
+- Swift
+- Waterfall
+
+Heracross 
+Ability: Swarm
+Level: 60
+EVs: 44 HP / 124 Atk / 44 Def / 0 SpA / 44 SpD / 252 Spe 
+Jolly Nature
+IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe 
+- Megahorn
+- Swords Dance
+- Rock Slide
+- Close Combat
+
+Roserade @ Black Sludge
+Ability: Poison Point
+Level: 59
+EVs: 60 HP / 0 Atk / 52 Def / 132 SpA / 52 SpD / 212 Spe 
+Timid Nature
+IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe 
+- Grassy Terrain
+- Giga Drain
+- Toxic
+- Sludge Bomb
+
+Snorlax 
+Ability: Thick Fat
+Level: 60
+EVs: 100 HP / 156 Atk / 160 Def / 0 SpA / 92 SpD / 0 Spe 
+Adamant Nature
+IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe 
+- Covet
+- Yawn
+- Crunch
+- Hammer Arm
+
+Infernape @ Expert Belt
+Ability: Blaze
+Level: 64
+EVs: 52 HP / 188 Atk / 52 Def / 0 SpA / 52 SpD / 164 Spe 
+Jolly Nature
+IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe 
+- Close Combat
+- Flare Blitz
+- U-turn
+- Shadow Claw

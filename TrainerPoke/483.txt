@@ -1,0 +1,10 @@
+Lucario 
+Ability: Inner Focus
+Level: 34
+EVs: 172 HP / 0 Atk / 168 Def / 0 SpA / 168 SpD / 0 Spe 
+Jolly Nature
+IVs: 31 HP / 0 Atk / 31 Def / 0 SpA / 31 SpD / 0 Spe 
+- Screech
+- Force Palm
+- Metal Claw
+- Laser Focus

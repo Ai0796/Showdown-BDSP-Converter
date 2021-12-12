@@ -1,0 +1,32 @@
+Gastly 
+Ability: Levitate
+Level: 12
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Lick
+- Confuse Ray
+- Mean Look
+- Payback
+
+Gastly 
+Ability: Levitate
+Level: 13
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Lick
+- Confuse Ray
+- Mean Look
+- Payback
+
+Gastly 
+Ability: Levitate
+Level: 17
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Lick
+- Confuse Ray
+- Payback
+- Spite

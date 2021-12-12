@@ -1,0 +1,32 @@
+Hippopotas 
+Ability: Sand Stream
+Level: 51
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Impish Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Yawn
+- Sand Tomb
+- Crunch
+- Earthquake
+
+Hippopotas 
+Ability: Sand Stream
+Level: 53
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Crunch
+- Double-Edge
+- Fissure
+- Slack Off
+
+Hippopotas 
+Ability: Sand Stream
+Level: 52
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Crunch
+- Double-Edge
+- Earthquake
+- Slack Off

@@ -1,0 +1,21 @@
+Medicham 
+Ability: Pure Power
+Level: 58
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Fire Punch
+- Thunder Punch
+- Ice Punch
+- Recover
+
+Machamp 
+Ability: No Guard
+Level: 60
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Knock Off
+- Strength
+- Dual Chop
+- Cross Chop

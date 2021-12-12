@@ -1,0 +1,31 @@
+{
+    "TypeID": 13,
+    "ColorID": 0,
+    "FightType": 0,
+    "ArenaID": 68,
+    "EffectID": -1,
+    "Gold": 9,
+    "UseItem1": 0,
+    "UseItem2": 0,
+    "UseItem3": 0,
+    "UseItem4": 0,
+    "HpRecoverFlag": 0,
+    "GiftItem": 0,
+    "NameLabel": "DP_Trainers_Name_TR_CYCLINGM_07",
+    "MsgFieldPokeOne": "",
+    "MsgFieldBefore": "1-CYCLINGM_03_TRMSG_REVENGE_FIGHT_START",
+    "MsgFieldRevenge": "1-CYCLINGM_03_TRMSG_REVENGE_FIGHT_START",
+    "MsgFieldAfter": "1-CYCLINGM_03_TRMSG_FIGHT_AFTER",
+    "MsgBattle": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1-CYCLINGM_07_TRMSG_FIGHT_LOSE",
+        "ee501"
+    ],
+    "SeqBattle": [],
+    "AIBit": 9
+}

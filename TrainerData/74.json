@@ -1,0 +1,31 @@
+{
+    "TypeID": 74,
+    "ColorID": 0,
+    "FightType": 1,
+    "ArenaID": -1,
+    "EffectID": -1,
+    "Gold": 31,
+    "UseItem1": 0,
+    "UseItem2": 0,
+    "UseItem3": 0,
+    "UseItem4": 0,
+    "HpRecoverFlag": 0,
+    "GiftItem": 0,
+    "NameLabel": "DP_Trainers_Name_TR_FAMILY_02_2",
+    "MsgFieldPokeOne": "1-FAMILY_02_TRMSG_POKE_ONE_2",
+    "MsgFieldBefore": "1-FAMILY_02_TRMSG_FIGHT_START_2",
+    "MsgFieldRevenge": "1-FAMILY_02_TRMSG_REVENGE_FIGHT_START_2",
+    "MsgFieldAfter": "1-FAMILY_02_TRMSG_FIGHT_AFTER_2",
+    "MsgBattle": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1-FAMILY_02_TRMSG_FIGHT_LOSE_1",
+        "ee501"
+    ],
+    "SeqBattle": [],
+    "AIBit": 9
+}

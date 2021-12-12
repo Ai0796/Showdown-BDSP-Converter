@@ -1,0 +1,21 @@
+Seaking 
+Ability: Water Veil
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Peck
+- Supersonic
+- Horn Attack
+- Waterfall
+
+Buizel 
+Ability: Swift Swim
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tail Whip
+- Bite
+- Swift
+- Waterfall

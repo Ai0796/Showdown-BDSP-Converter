@@ -1,0 +1,31 @@
+Magikarp 
+Ability: Swift Swim
+Level: 28
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Splash
+- Tackle
+- Flail
+
+Finneon 
+Ability: Storm Drain
+Level: 30
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Attract
+- Rain Dance
+- Gust
+- Water Pulse
+
+Gyarados 
+Ability: Intimidate
+Level: 32
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Whirlpool
+- Brine
+- Waterfall
+- Rain Dance

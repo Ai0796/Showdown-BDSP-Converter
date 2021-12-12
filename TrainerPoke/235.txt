@@ -1,0 +1,32 @@
+Machoke 
+Ability: Guts
+Level: 25
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Leer
+- Scary Face
+- Vital Throw
+- Poison Jab
+
+Machop 
+Ability: Guts
+Level: 25
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Low Kick
+- Vital Throw
+- Thief
+- Fling
+
+Machoke 
+Ability: Guts
+Level: 25
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Low Kick
+- Leer
+- Vital Throw
+- Poison Jab

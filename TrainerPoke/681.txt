@@ -1,0 +1,65 @@
+Abomasnow (M) @ Icy Rock
+Ability: Snow Warning
+Level: 68
+EVs: 240 HP / 252 Atk / 12 Def / 0 SpA / 4 SpD / 0 Spe 
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe 
+- Wood Hammer
+- Ice Punch
+- Earthquake
+- Aurora Veil
+
+Jynx (M) @ Focus Sash
+Ability: Dry Skin
+Level: 70
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Blizzard
+- Focus Blast
+- Sweet Kiss
+- Lovely Kiss
+
+Mamoswine (M) @ Expert Belt
+Ability: Snow Cloak
+Level: 68
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Ice Shard
+- Earthquake
+- Stone Edge
+- Double Team
+
+Froslass (M) @ Sitrus Berry
+Ability: Snow Cloak
+Level: 70
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Blizzard
+- Shadow Ball
+- Double Team
+- Aurora Veil
+
+Glaceon (M) @ Leftovers
+Ability: Ice Body
+Level: 70
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 6 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Blizzard
+- Freeze-Dry
+- Baby-Doll Eyes
+- Double Team
+
+Weavile (M) @ Life Orb
+Ability: Pressure
+Level: 72
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Ice Shard
+- Night Slash
+- Brick Break
+- X-Scissor

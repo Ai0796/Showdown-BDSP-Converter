@@ -1,0 +1,32 @@
+Golbat 
+Ability: Inner Focus
+Level: 51
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Screech
+- Astonish
+- Poison Fang
+- Bite
+
+Crobat 
+Ability: Inner Focus
+Level: 52
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tailwind
+- Cross Poison
+- Toxic
+- Bite
+
+Crobat 
+Ability: Inner Focus
+Level: 53
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Absorb
+- Toxic
+- Air Cutter
+- Venoshock

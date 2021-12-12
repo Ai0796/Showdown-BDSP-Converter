@@ -1,0 +1,19 @@
+Geodude 
+Ability: Rock Head
+Level: 8
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Impish Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tackle
+- Defense Curl
+
+Onix 
+Ability: Rock Head
+Level: 8
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Impish Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tackle
+- Harden
+- Bind
+- Smack Down

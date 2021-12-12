@@ -1,0 +1,32 @@
+Ambipom 
+Ability: Pickup
+Level: 36
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Sand Attack
+- Screech
+- Double Hit
+- Fling
+
+Golduck 
+Ability: Cloud Nine
+Level: 37
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Aqua Jet
+- Confusion
+- Water Pulse
+- Soak
+
+Girafarig 
+Ability: Inner Focus
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Naive Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Stomp
+- Psybeam
+- Crunch

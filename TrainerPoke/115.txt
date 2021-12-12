@@ -1,0 +1,43 @@
+Zubat 
+Ability: Inner Focus
+Level: 33
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Supersonic
+- Poison Fang
+- Air Cutter
+- Bite
+
+Golbat 
+Ability: Inner Focus
+Level: 33
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Supersonic
+- Astonish
+- Poison Fang
+- Air Cutter
+
+Zubat 
+Ability: Inner Focus
+Level: 34
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Supersonic
+- Poison Fang
+- Air Cutter
+- Bite
+
+Croagunk 
+Ability: Anticipation
+Level: 36
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Docile Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Revenge
+- Venoshock
+- Sucker Punch
+- Toxic

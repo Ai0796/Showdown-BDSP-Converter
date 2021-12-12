@@ -1,0 +1,32 @@
+Starly 
+Ability: Keen Eye
+Level: 15
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Docile Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Quick Attack
+- Wing Attack
+- Double Team
+
+Geodude 
+Ability: Rock Head
+Level: 15
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Naive Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Defense Curl
+- Sandstorm
+- Rock Polish
+- Rollout
+
+Chimchar 
+Ability: Blaze
+Level: 18
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Docile Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Leer
+- Taunt
+- Fury Swipes
+- Flame Wheel

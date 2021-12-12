@@ -1,0 +1,18 @@
+Bidoof @ Eviolite  
+Ability: Moody  
+Level: 7  
+EVs: 204 Atk / 16 Def / 244 SpD / 28 Spe  
+Adamant Nature  
+- Headbutt  
+- Protect  
+- Tackle  
+- Curse
+
+Bidoof @ Eviolite  
+Ability: Simple  
+Level: 7  
+EVs: 204 Atk / 16 Def / 244 SpD / 28 Spe  
+Adamant Nature  
+- Headbutt  
+- Protect  
+- Curse

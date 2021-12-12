@@ -1,0 +1,32 @@
+Clefairy (M) 
+Ability: Cute Charm
+Level: 25
+EVs: 172 HP / 0 Atk / 168 Def / 0 SpA / 168 SpD / 0 Spe 
+Quiet Nature
+IVs: 31 HP / 0 Atk / 31 Def / 0 SpA / 31 SpD / 0 Spe 
+- Sing
+- Disarming Voice
+- Growl
+- Life Dew
+
+Kadabra 
+Ability: Synchronize
+Level: 25
+EVs: 172 HP / 0 Atk / 168 Def / 0 SpA / 168 SpD / 0 Spe 
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 0 SpA / 31 SpD / 0 Spe 
+- Kinesis
+- Psybeam
+- Reflect
+- Ally Switch
+
+Prinplup 
+Ability: Torrent
+Level: 28
+EVs: 172 HP / 0 Atk / 168 Def / 0 SpA / 168 SpD / 0 Spe 
+Hardy Nature
+IVs: 31 HP / 0 Atk / 31 Def / 0 SpA / 31 SpD / 0 Spe 
+- Metal Claw
+- Growl
+- Peck
+- Bubble Beam

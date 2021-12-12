@@ -1,0 +1,33 @@
+{
+    "TypeID": 69,
+    "ColorID": 0,
+    "FightType": 0,
+    "ArenaID": -1,
+    "EffectID": -1,
+    "Gold": 31,
+    "UseItem1": 23,
+    "UseItem2": 23,
+    "UseItem3": 0,
+    "UseItem4": 0,
+    "HpRecoverFlag": 0,
+    "GiftItem": 0,
+    "NameLabel": "DP_Trainers_Name_TR_BIGFOUR2_01",
+    "MsgFieldPokeOne": "",
+    "MsgFieldBefore": "20-msg_c10r0105_bigfour2_21_1",
+    "MsgFieldRevenge": "20-msg_c10r0105_bigfour2_21_1",
+    "MsgFieldAfter": "20-msg_c10r0105_bigfour2_21_2",
+    "MsgBattle": [
+        "",
+        "",
+        "1-bigfour2_11_TRMSG_FIGHT_POKE_LAST",
+        "bk013",
+        "1-bigfour2_11_TRMSG_FIGHT_POKE_LAST_HP_HALF",
+        "bk013",
+        "1-bigfour2_21_TRMSG_FIGHT_LOSE",
+        "ee501"
+    ],
+    "SeqBattle": [
+        "ee630"
+    ],
+    "AIBit": 111
+}

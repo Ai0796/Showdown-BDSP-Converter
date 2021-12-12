@@ -1,0 +1,62 @@
+Togekiss (M) @ Lum Berry
+Ability: Serene Grace
+Level: 68
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Dazzling Gleam
+- Air Slash
+- Aura Sphere
+- Thunder Wave
+
+Bellossom (M) @ Persim Berry
+Ability: Chlorophyll
+Level: 69
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Moonblast
+- Petal Dance
+- Toxic
+- Quiver Dance
+
+Mamoswine @ Life Orb
+Ability: Thick Fat
+Level: 70
+EVs: 128 HP / 252 Atk / 128 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Ice Shard
+- Earthquake
+- Stone Edge
+- Avalanche
+
+Typhlosion @ Choice Scarf
+Ability: Flash Fire
+Level: 69
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Eruption
+
+Lopunny (M) @ Lagging Tail
+Ability: Klutz
+Level: 70
+EVs: 252 HP / 252 Atk / 6 Def / 0 SpA / 0 SpD / 0 Spe 
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- High Jump Kick
+- Thunder Wave
+- Sweet Kiss
+- Switcheroo
+
+Empoleon @ Leftovers
+Ability: Torrent
+Level: 74
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 6 Spe 
+Hardy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Hydro Pump
+- Flash Cannon
+- Ice Beam
+- Grass Knot

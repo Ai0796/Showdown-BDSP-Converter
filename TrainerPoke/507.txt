@@ -1,0 +1,21 @@
+Meditite 
+Ability: Pure Power
+Level: 31
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Low Kick
+- Force Palm
+- Psybeam
+- High Jump Kick
+
+Machop 
+Ability: No Guard
+Level: 33
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Low Sweep
+- Knock Off
+- Strength
+- Dual Chop

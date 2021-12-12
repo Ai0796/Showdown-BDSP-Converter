@@ -1,0 +1,54 @@
+Quagsire (M) @ Leftovers
+Ability: Water Absorb
+Level: 55
+EVs: 12 HP / 0 Atk / 252 Def / 12 SpA / 12 SpD / 12 Spe 
+Impish Nature
+IVs: 23 HP / 31 Atk / 31 Def / 0 SpA / 13 SpD / 31 Spe 
+- Recover
+- Toxic
+- Earthquake
+- Surf
+
+Sudowoodo (M) @ Sitrus Berry
+Ability: Rock Head
+Level: 56
+EVs: 0 HP / 252 Atk / 12 Def / 0 SpA / 12 SpD / 12 Spe 
+Adamant Nature
+IVs: 21 HP / 31 Atk / 31 Def / 0 SpA / 11 SpD / 31 Spe 
+- Double-Edge
+- Head Smash
+- Sucker Punch
+- Low Kick
+
+Golem (M) @ Soft Sand
+Ability: Sturdy
+Level: 56
+EVs: 12 HP / 60 Atk / 12 Def / 0 SpA / 12 SpD / 204 Spe 
+Jolly Nature
+IVs: 21 HP / 31 Atk / 21 Def / 0 SpA / 21 SpD / 31 Spe 
+- Rock Polish
+- Heavy Slam
+- Earthquake
+- Stone Edge
+
+Whiscash (M) @ Rindo Berry
+Ability: Hydration
+Level: 55
+EVs: 12 HP / 12 Atk / 12 Def / 252 SpA / 12 SpD / 0 Spe 
+Modest Nature
+IVs: 21 HP / 31 Atk / 21 Def / 31 SpA / 21 SpD / 0 Spe 
+- Bulldoze
+- Ice Beam
+- Belch
+- Hydro Pump
+
+Hippowdon (M) @ Chesto Berry
+Ability: Sand Stream
+Level: 59
+EVs: 12 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Ice Fang
+- Earthquake
+- Crunch
+- Rest

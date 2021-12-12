@@ -1,0 +1,32 @@
+Wingull 
+Ability: Hydration
+Level: 37
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Quick Attack
+- Water Pulse
+- Air Slash
+- Mist
+
+Quagsire 
+Ability: Water Absorb
+Level: 42
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Rain Dance
+- Mud Shot
+- Yawn
+- Muddy Water
+
+Pelipper 
+Ability: Drizzle
+Level: 41
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tailwind
+- Wing Attack
+- Water Pulse
+- Stockpile

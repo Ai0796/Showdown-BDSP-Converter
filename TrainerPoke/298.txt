@@ -1,0 +1,21 @@
+Pelipper 
+Ability: Keen Eye
+Level: 33
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bold Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Air Slash
+- Tailwind
+- Water Pulse
+- Stockpile
+
+Sudowoodo 
+Ability: Rock Head
+Level: 33
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Impish Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Wood Hammer
+- Tearful Look
+- Sucker Punch
+- Rock Slide

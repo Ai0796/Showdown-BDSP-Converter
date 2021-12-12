@@ -1,0 +1,21 @@
+Wingull 
+Ability: Keen Eye
+Level: 24
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Water Pulse
+- Roost
+- Pluck
+
+Wingull 
+Ability: Keen Eye
+Level: 24
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Quick Attack
+- Water Pulse
+- Steel Wing
+- Aerial Ace

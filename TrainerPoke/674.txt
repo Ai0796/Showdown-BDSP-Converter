@@ -1,0 +1,21 @@
+Beautifly 
+Ability: Swarm
+Level: 25
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Gust
+- Air Cutter
+- Mega Drain
+- Leech Life
+
+Stunky 
+Ability: Stench
+Level: 25
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Docile Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Poison Gas
+- Fury Swipes
+- Focus Energy
+- Bite

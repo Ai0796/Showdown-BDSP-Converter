@@ -1,0 +1,21 @@
+Misdreavus 
+Ability: Levitate
+Level: 56
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Calm Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Mean Look
+- Perish Song
+- Shadow Ball
+- Pain Split
+
+Gengar 
+Ability: Cursed Body
+Level: 58
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Shadow Ball
+- Dark Pulse
+- Destiny Bond
+- Curse

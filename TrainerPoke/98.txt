@@ -1,0 +1,10 @@
+Croagunk 
+Ability: Anticipation
+Level: 25
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Mud-Slap
+- Taunt
+- Revenge
+- Sucker Punch

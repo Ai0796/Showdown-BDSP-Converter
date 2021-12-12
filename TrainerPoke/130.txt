@@ -1,0 +1,32 @@
+Cherrim 
+Ability: Flower Gift
+Level: 30
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Morning Sun
+- Growth
+- Magical Leaf
+- Leech Seed
+
+Marill 
+Ability: Huge Power
+Level: 32
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Slam
+- Bounce
+- Aqua Tail
+- Play Rough
+
+Lopunny 
+Ability: Cute Charm
+Level: 34
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Mirror Coat
+- Double Kick
+- Charm
+- Headbutt

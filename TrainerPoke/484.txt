@@ -1,0 +1,10 @@
+Arcanine 
+Ability: Intimidate
+Level: 57
+EVs: 172 HP / 0 Atk / 168 Def / 0 SpA / 168 SpD / 0 Spe 
+Jolly Nature
+IVs: 31 HP / 0 Atk / 31 Def / 0 SpA / 31 SpD / 0 Spe 
+- Burn Up
+- Helping Hand
+- Leer
+- Howl

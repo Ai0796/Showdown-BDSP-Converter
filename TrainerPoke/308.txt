@@ -1,0 +1,32 @@
+Murkrow 
+Ability: Insomnia
+Level: 40
+EVs: 68 HP / 0 Atk / 68 Def / 0 SpA / 68 SpD / 0 Spe 
+Jolly Nature
+IVs: 15 HP / 0 Atk / 15 Def / 0 SpA / 15 SpD / 0 Spe 
+- Wing Attack
+- Night Shade
+- Assurance
+- Taunt
+
+Golbat 
+Ability: Inner Focus
+Level: 40
+EVs: 68 HP / 0 Atk / 68 Def / 0 SpA / 68 SpD / 0 Spe 
+Jolly Nature
+IVs: 15 HP / 0 Atk / 15 Def / 0 SpA / 15 SpD / 0 Spe 
+- Screech
+- Poison Fang
+- Air Cutter
+- Bite
+
+Sneasel @ Sitrus Berry
+Ability: Keen Eye
+Level: 43
+EVs: 68 HP / 0 Atk / 68 Def / 0 SpA / 68 SpD / 0 Spe 
+Jolly Nature
+IVs: 15 HP / 0 Atk / 15 Def / 0 SpA / 15 SpD / 0 Spe 
+- Metal Claw
+- Icy Wind
+- Hone Claws
+- Beat Up

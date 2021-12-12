@@ -1,0 +1,10 @@
+Staravia 
+Ability: Intimidate
+Level: 40
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Double Team
+- Endeavor
+- Aerial Ace
+- Take Down

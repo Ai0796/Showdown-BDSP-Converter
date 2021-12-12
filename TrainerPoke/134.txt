@@ -1,0 +1,32 @@
+Gyarados 
+Ability: Intimidate
+Level: 41
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Whirlpool
+- Brine
+- Waterfall
+- Rain Dance
+
+Remoraid 
+Ability: Sniper
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Focus Energy
+- Psybeam
+- Aurora Beam
+- Bubble Beam
+
+Gyarados 
+Ability: Intimidate
+Level: 41
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Ice Fang
+- Waterfall
+- Crunch
+- Dragon Dance

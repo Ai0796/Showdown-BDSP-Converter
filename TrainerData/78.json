@@ -1,0 +1,33 @@
+{
+    "TypeID": 78,
+    "ColorID": 0,
+    "FightType": 0,
+    "ArenaID": 22,
+    "EffectID": -1,
+    "Gold": 31,
+    "UseItem1": 23,
+    "UseItem2": 23,
+    "UseItem3": 0,
+    "UseItem4": 0,
+    "HpRecoverFlag": 0,
+    "GiftItem": 0,
+    "NameLabel": "DP_Trainers_Name_TR_LEADER2_01",
+    "MsgFieldPokeOne": "",
+    "MsgFieldBefore": "17-msg_c04gym0102_leader_07_01",
+    "MsgFieldRevenge": "17-msg_c04gym0102_leader_07_01",
+    "MsgFieldAfter": "17-msg_c04gym0102_leader_07_04",
+    "MsgBattle": [
+        "",
+        "",
+        "1-LEADER2_02_TRMSG_FIGHT_POKE_LAST",
+        "bk005",
+        "1-LEADER2_02_TRMSG_FIGHT_POKE_LAST_HP_HALF",
+        "bk005",
+        "1-LEADER2_02_TRMSG_FIGHT_LOSE",
+        "ee501"
+    ],
+    "SeqBattle": [
+        "ee630"
+    ],
+    "AIBit": 111
+}

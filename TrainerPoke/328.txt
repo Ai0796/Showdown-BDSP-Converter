@@ -1,0 +1,31 @@
+Silcoon 
+Ability: Shed Skin
+Level: 32
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bashful Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tackle
+- Poison Sting
+- Harden
+
+Golbat 
+Ability: Inner Focus
+Level: 32
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Quirky Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Screech
+- Poison Fang
+- Quick Guard
+- Air Cutter
+
+Glameow 
+Ability: Own Tempo
+Level: 32
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Aerial Ace
+- Fury Swipes
+- Retaliate

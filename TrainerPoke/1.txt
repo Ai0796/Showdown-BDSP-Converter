@@ -1,0 +1,18 @@
+Starly @ Focus Sash
+Ability: Keen Eye
+Level: 1
+EVs: 0 HP / 236 Atk / 0 Def / 36 SpA / 0 SpD / 0 Spe 
+Lonely Nature
+IVs: 0 HP / 31 Atk / 0 Def / 31 SpA / 0 SpD / 0 Spe 
+- Endeavor
+- Quick Attack
+
+Starly @ Choice Band
+Ability: Reckless
+Level: 7
+EVs: 36 HP / 236 Atk / 0 Def / 36 SpA / 0 SpD / 196 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Quick Attack
+- Tackle
+- Growl

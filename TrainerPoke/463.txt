@@ -1,0 +1,21 @@
+Cacturne 
+Ability: Sand Veil
+Level: 57
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bashful Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Spiky Shield
+- Leech Seed
+- Sucker Punch
+- Pin Missile
+
+Machamp 
+Ability: No Guard
+Level: 57
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Dynamic Punch
+- Knock Off
+- Strength
+- Low Sweep

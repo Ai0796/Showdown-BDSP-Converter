@@ -1,0 +1,65 @@
+Staraptor @ Focus Sash
+Ability: Intimidate
+Level: 49
+EVs: 56 HP / 148 Atk / 36 Def / 0 SpA / 36 SpD / 148 Spe 
+Jolly Nature
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe 
+- Close Combat
+- Pluck
+- Sunny Day
+- U-turn
+
+Floatzel @ Quick Claw
+Ability: Swift Swim
+Level: 49
+EVs: 40 HP / 104 Atk / 40 Def / 0 SpA / 40 SpD / 160 Spe 
+Jolly Nature
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe 
+- Ice Fang
+- Crunch
+- Swift
+- Brine
+
+Heracross 
+Ability: Swarm
+Level: 51
+EVs: 44 HP / 104 Atk / 44 Def / 0 SpA / 44 SpD / 156 Spe 
+Jolly Nature
+IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe 
+- Pin Missile
+- Swords Dance
+- Rock Slide
+- Thief
+
+Rapidash @ Expert Belt
+Ability: Flash Fire
+Level: 49
+EVs: 48 HP / 116 Atk / 48 Def / 0 SpA / 48 SpD / 172 Spe 
+Jolly Nature
+IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe 
+- Smart Strike
+- Megahorn
+- Poison Jab
+- Flame Wheel
+
+Snorlax 
+Ability: Thick Fat
+Level: 52
+EVs: 96 HP / 120 Atk / 96 Def / 0 SpA / 88 SpD / 0 Spe 
+Adamant Nature
+IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe 
+- Covet
+- Yawn
+- Crunch
+- High Horsepower
+
+Torterra @ Leftovers
+Ability: Overgrow
+Level: 55
+EVs: 164 HP / 92 Atk / 52 Def / 52 SpA / 124 SpD / 0 Spe 
+Careful Nature
+IVs: 11 HP / 11 Atk / 11 Def / 11 SpA / 11 SpD / 11 Spe 
+- Earthquake
+- Wood Hammer
+- Roar
+- Stealth Rock

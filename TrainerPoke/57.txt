@@ -1,0 +1,43 @@
+Zubat 
+Ability: Inner Focus
+Level: 23
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Absorb
+- Astonish
+- Mean Look
+- Poison Fang
+
+Skorupi 
+Ability: Battle Armor
+Level: 25
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Naive Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Hone Claws
+- Poison Fang
+- Venoshock
+- Knock Off
+
+Zubat 
+Ability: Inner Focus
+Level: 23
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Absorb
+- Astonish
+- Mean Look
+- Poison Fang
+
+Golbat 
+Ability: Inner Focus
+Level: 25
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Screech
+- Absorb
+- Astonish
+- Poison Fang

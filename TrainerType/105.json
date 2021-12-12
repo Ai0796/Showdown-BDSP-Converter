@@ -1,0 +1,28 @@
+{
+    "TrainerID": 105,
+    "LabelTrType": "DP_Trainers_Type_TR_MORIMOTO_01",
+    "Sex": 0,
+    "Group": 0,
+    "BallId": 4,
+    "FieldEncount": [
+        "01",
+        "02"
+    ],
+    "BtlEffId": [
+        -1,
+        -1,
+        -1,
+        -1
+    ],
+    "EyeBgm": "EV201",
+    "ModelID": "tr0053_00",
+    "Hand": 2,
+    "HoldBallHand": 0,
+    "HelpHand": 2,
+    "HelpHoldBallHand": 0,
+    "ThrowTime": 0.009999999776482582,
+    "CaptureThrowTime": 0.009999999776482582,
+    "LoseLoopTime": 2.0,
+    "TrainerEffect": "",
+    "Age": 2
+}

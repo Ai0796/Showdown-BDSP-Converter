@@ -1,0 +1,21 @@
+Onix 
+Ability: Rock Head
+Level: 54
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Sand Tomb
+- Dig
+- Iron Tail
+- Stone Edge
+
+Machamp 
+Ability: No Guard
+Level: 56
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Knock Off
+- Dual Chop
+- Bulk Up
+- Dynamic Punch

@@ -1,0 +1,21 @@
+Staraptor 
+Ability: Intimidate
+Level: 58
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Take Down
+- Brave Bird
+- Final Gambit
+
+Staraptor 
+Ability: Intimidate
+Level: 58
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Quick Attack
+- Close Combat
+- Take Down
+- Brave Bird

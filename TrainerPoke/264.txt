@@ -1,0 +1,37 @@
+Alakazam @ Alakazite  
+Ability: Magic Guard  
+Level: 12
+Shiny: Yes    
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Recover  
+- Shadow Ball  
+
+Medicham @ Expert Belt  
+Ability: Telepathy  
+Level: 12
+Shiny: Yes    
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Ice Punch  
+- Zen Headbutt  
+
+Sharpedo @ Life Orb  
+Ability: Speed Boost  
+Level: 12
+Shiny: Yes    
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Protect  
+- Waterfall  
+- Crunch  
+- Earthquake  
+
+
+
+

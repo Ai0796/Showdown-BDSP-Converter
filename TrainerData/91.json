@@ -1,0 +1,31 @@
+{
+    "TypeID": 91,
+    "ColorID": 0,
+    "FightType": 0,
+    "ArenaID": 33,
+    "EffectID": -1,
+    "Gold": 46,
+    "UseItem1": 26,
+    "UseItem2": 23,
+    "UseItem3": 0,
+    "UseItem4": 0,
+    "HpRecoverFlag": 0,
+    "GiftItem": 0,
+    "NameLabel": "DP_Trainers_Name_TR_GINGALBOSS_02",
+    "MsgFieldPokeOne": "",
+    "MsgFieldBefore": "",
+    "MsgFieldRevenge": "",
+    "MsgFieldAfter": "",
+    "MsgBattle": [
+        "",
+        "",
+        "1-GINGALBOSS_02_TRMSG_FIGHT_POKE_LAST",
+        "bk020",
+        "1-GINGALBOSS_02_TRMSG_FIGHT_POKE_LAST_HP_HALF",
+        "bk020",
+        "1-GINGALBOSS_02_TRMSG_FIGHT_LOSE",
+        "ee501"
+    ],
+    "SeqBattle": [],
+    "AIBit": 111
+}

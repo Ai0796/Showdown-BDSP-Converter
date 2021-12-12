@@ -1,0 +1,21 @@
+Staravia 
+Ability: Intimidate
+Level: 55
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Impish Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Double Team
+- Endeavor
+- Whirlwind
+- Brave Bird
+
+Girafarig 
+Ability: Inner Focus
+Level: 55
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Assurance
+- Stomp
+- Nasty Plot
+- Psychic

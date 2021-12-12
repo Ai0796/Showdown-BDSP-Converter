@@ -1,0 +1,21 @@
+Luxio 
+Ability: Intimidate
+Level: 31
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Docile Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Thunder Shock
+- Charge
+- Spark
+- Volt Switch
+
+Stunky 
+Ability: Stench
+Level: 31
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Naive Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Focus Energy
+- Venoshock
+- Toxic
+- Sucker Punch

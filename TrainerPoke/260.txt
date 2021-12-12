@@ -1,0 +1,21 @@
+Mantyke 
+Ability: Water Absorb
+Level: 27
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tackle
+- Supersonic
+- Wing Attack
+- Bubble Beam
+
+Gyarados 
+Ability: Intimidate
+Level: 31
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Leer
+- Ice Fang
+- Waterfall
+- Crunch

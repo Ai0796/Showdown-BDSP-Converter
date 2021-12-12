@@ -1,0 +1,32 @@
+Staravia 
+Ability: Intimidate
+Level: 52
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Brave Bird
+- Take Down
+- Quick Attack
+- U-turn
+
+Pelipper 
+Ability: Drizzle
+Level: 53
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Stockpile
+- Air Slash
+- Roost
+- Water Pulse
+
+Golbat 
+Ability: Inner Focus
+Level: 54
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Poison Fang
+- Bite
+- Astonish
+- Supersonic

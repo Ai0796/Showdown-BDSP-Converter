@@ -1,0 +1,21 @@
+Marill 
+Ability: Thick Fat
+Level: 32
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bashful Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tail Whip
+- Bubble Beam
+- Play Rough
+- Rain Dance
+
+Pelipper 
+Ability: Drizzle
+Level: 30
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bold Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Air Slash
+- Growl
+- Wing Attack
+- Water Pulse

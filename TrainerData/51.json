@@ -1,0 +1,31 @@
+{
+    "TypeID": 51,
+    "ColorID": 0,
+    "FightType": 0,
+    "ArenaID": 6,
+    "EffectID": -1,
+    "Gold": 13,
+    "UseItem1": 0,
+    "UseItem2": 0,
+    "UseItem3": 0,
+    "UseItem4": 0,
+    "HpRecoverFlag": 0,
+    "GiftItem": 0,
+    "NameLabel": "DP_Trainers_Name_TR_ISEKI_11",
+    "MsgFieldPokeOne": "",
+    "MsgFieldBefore": "1-ISEKI_10_TRMSG_REVENGE_FIGHT_START",
+    "MsgFieldRevenge": "1-ISEKI_10_TRMSG_REVENGE_FIGHT_START",
+    "MsgFieldAfter": "1-ISEKI_07_TRMSG_FIGHT_AFTER",
+    "MsgBattle": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1-ISEKI_11_TRMSG_FIGHT_LOSE",
+        "ee501"
+    ],
+    "SeqBattle": [],
+    "AIBit": 9
+}

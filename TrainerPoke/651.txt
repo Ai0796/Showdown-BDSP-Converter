@@ -1,0 +1,32 @@
+Staraptor 
+Ability: Intimidate
+Level: 58
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Brave Bird
+- Close Combat
+- Quick Attack
+- Take Down
+
+Pelipper 
+Ability: Drizzle
+Level: 58
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Hurricane
+- Roost
+- Water Pulse
+- Tailwind
+
+Crobat 
+Ability: —
+Level: 58
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Cross Poison
+- Bite
+- Astonish
+- Supersonic

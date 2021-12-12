@@ -1,0 +1,65 @@
+Mothim @ Focus Sash
+Ability: Tinted Lens
+Level: 58
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Bug Buzz
+- Air Slash
+- Energy Ball
+- Quiver Dance
+
+Milotic @ Flame Orb
+Ability: Marvel Scale
+Level: 59
+EVs: 252 HP / 0 Atk / 128 Def / 0 SpA / 128 SpD / 6 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Scald
+- Substitute
+- Calm Mind
+- Recover
+
+Gallade @ Life Orb
+Ability: Justified
+Level: 63
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Psycho Cut
+- Close Combat
+- Stone Edge
+- Swords Dance
+
+Magmortar @ Expert Belt
+Ability: Vital Spirit
+Level: 59
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Fire Blast
+- Thunderbolt
+- Focus Blast
+- Will-O-Wisp
+
+Clefable (M) @ Sitrus Berry
+Ability: Unaware
+Level: 60
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Moonblast
+- Calm Mind
+- Moonlight
+- Minimize
+
+Torterra @ Leftovers
+Ability: Overgrow
+Level: 64
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 6 SpD / 0 Spe 
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe 
+- Earthquake
+- Synthesis
+- Leech Seed
+- Curse

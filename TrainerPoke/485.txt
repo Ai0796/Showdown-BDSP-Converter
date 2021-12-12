@@ -1,0 +1,10 @@
+Claydol 
+Ability: Levitate
+Level: 58
+EVs: 172 HP / 0 Atk / 168 Def / 0 SpA / 168 SpD / 0 Spe 
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 0 SpA / 31 SpD / 0 Spe 
+- Ancient Power
+- Cosmic Power
+- Extrasensory
+- Earth Power

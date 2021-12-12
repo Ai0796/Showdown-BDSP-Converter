@@ -1,0 +1,32 @@
+Meditite (M) @ Light Clay
+Ability: Pure Power
+Level: 27
+EVs: 36 HP / 52 Atk / 0 Def / 0 SpA / 0 SpD / 36 Spe 
+Naive Nature
+IVs: 15 HP / 15 Atk / 0 Def / 0 SpA / 0 SpD / 15 Spe 
+- Drain Punch
+- Light Screen
+- Flash
+- Bulk Up
+
+Machoke @ Expert Belt
+Ability: Guts
+Level: 27
+EVs: 36 HP / 52 Atk / 0 Def / 0 SpA / 0 SpD / 36 Spe 
+Adamant Nature
+IVs: 15 HP / 15 Atk / 0 Def / 0 SpA / 0 SpD / 15 Spe 
+- Low Sweep
+- Knock Off
+- Rock Tomb
+- Bulldoze
+
+Lucario @ Big Root
+Ability: Steadfast
+Level: 30
+EVs: 0 HP / 68 Atk / 68 Def / 0 SpA / 0 SpD / 68 Spe 
+Adamant Nature
+IVs: 0 HP / 15 Atk / 15 Def / 0 SpA / 0 SpD / 15 Spe 
+- Drain Punch
+- Screech
+- Metal Claw
+- Bulk Up

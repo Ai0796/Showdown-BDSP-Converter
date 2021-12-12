@@ -1,0 +1,32 @@
+Goldeen 
+Ability: Water Veil
+Level: 22
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Peck
+- Water Pulse
+- Rain Dance
+- Poison Jab
+
+Barboach 
+Ability: Hydration
+Level: 23
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Mud-Slap
+- Water Pulse
+- Rock Tomb
+- Bulldoze
+
+Gyarados 
+Ability: Intimidate
+Level: 24
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Whirlpool
+- Scary Face
+- Substitute
+- Scald

@@ -1,0 +1,21 @@
+Bronzor 
+Ability: Levitate
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Hypnosis
+- Safeguard
+- Extrasensory
+- Heavy Slam
+
+Glameow 
+Ability: Own Tempo
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Docile Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Aerial Ace
+- Charm
+- Taunt
+- Slash

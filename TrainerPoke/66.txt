@@ -1,0 +1,32 @@
+Croagunk 
+Ability: Anticipation
+Level: 28
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Poison Sting
+- Mud-Slap
+- Revenge
+- Sucker Punch
+
+Meditite 
+Ability: Pure Power
+Level: 27
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Detect
+- Force Palm
+- Psybeam
+- Calm Mind
+
+Machoke 
+Ability: No Guard
+Level: 29
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Leer
+- Focus Energy
+- Revenge
+- Knock Off

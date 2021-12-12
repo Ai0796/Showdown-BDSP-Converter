@@ -1,6 +1,7 @@
 import UnityPy
 import os
 import json
+import sys
 
 
 #PathIDs inside Unity
@@ -64,7 +65,7 @@ if not os.path.exists(src):
     print("Error, masterdatas not found")
     print("Press enter to Exit...")
     input()
-    quit()
+    sys.exit()
 
 for outputPath in fileList:
     if not os.path.exists(outputPath):

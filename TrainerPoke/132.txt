@@ -1,0 +1,20 @@
+Magikarp 
+Ability: Swift Swim
+Level: 40
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Splash
+- Tackle
+- Flail
+
+Gyarados 
+Ability: Intimidate
+Level: 42
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Ice Fang
+- Waterfall
+- Crunch
+- Dragon Dance

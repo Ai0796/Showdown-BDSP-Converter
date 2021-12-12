@@ -1,0 +1,21 @@
+Exeggcute 
+Ability: Chlorophyll
+Level: 52
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Modest Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Worry Seed
+- Leech Seed
+- Giga Drain
+- Extrasensory
+
+Ursaring 
+Ability: Guts
+Level: 58
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Adamant Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Scary Face
+- Rest
+- Snore
+- Thrash

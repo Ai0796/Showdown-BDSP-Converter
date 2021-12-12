@@ -1,0 +1,41 @@
+Piplup @ Eviolite  
+Ability: Torrent  
+Level: 14  
+Shiny: Yes  
+EVs: 92 HP / 252 Def / 148 SpD  
+Bold Nature  
+- Stealth Rock  
+- Defog  
+- Scald  
+- Ice Beam  
+
+Starly @ Choice Scarf  
+Ability: Keen Eye  
+Level: 13  
+EVs: 36 HP / 236 Atk / 36 Def / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Return  
+- U-turn  
+- Final Gambit  
+
+Munchlax @ Eviolite  
+Ability: Thick Fat  
+Level: 13  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Return  
+- Fire Punch  
+- Earthquake  
+- Pursuit  
+
+Ponyta @ Expert Belt  
+Ability: Flame Body  
+Level: 13  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Flame Charge  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+

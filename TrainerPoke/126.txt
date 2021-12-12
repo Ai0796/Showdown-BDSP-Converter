@@ -1,0 +1,21 @@
+Shellos 
+Ability: Storm Drain
+Level: 30
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Mud-Slap
+- Harden
+- Recover
+- Water Pulse
+
+Gastrodon 
+Ability: Storm Drain
+Level: 32
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Recover
+- Water Pulse
+- Ancient Power
+- Body Slam

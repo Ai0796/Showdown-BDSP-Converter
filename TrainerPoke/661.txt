@@ -1,0 +1,32 @@
+Zubat 
+Ability: Inner Focus
+Level: 31
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Serious Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Supersonic
+- Poison Fang
+- Air Cutter
+- Bite
+
+Zubat 
+Ability: Inner Focus
+Level: 31
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bashful Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Poison Fang
+- Quick Guard
+- Air Cutter
+- Bite
+
+Golbat 
+Ability: Inner Focus
+Level: 34
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Quirky Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Screech
+- Poison Fang
+- Air Cutter
+- Bite

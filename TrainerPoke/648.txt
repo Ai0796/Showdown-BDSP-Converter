@@ -1,0 +1,32 @@
+Buizel 
+Ability: Swift Swim
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Tail Whip
+- Bite
+- Aqua Jet
+
+Girafarig 
+Ability: Inner Focus
+Level: 40
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Timid Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Astonish
+- Stomp
+- Psybeam
+- Crunch
+
+Machoke 
+Ability: Guts
+Level: 39
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Focus Energy
+- Low Sweep
+- Knock Off
+- Dual Chop

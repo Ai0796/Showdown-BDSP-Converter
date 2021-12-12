@@ -1,0 +1,65 @@
+Drifblim (M) @ Flame Orb
+Ability: Flare Boost
+Level: 68
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Shadow Ball
+- Thunderbolt
+- Psychic
+- Strength Sap
+
+Banette (M) @ Iron Ball
+Ability: Cursed Body
+Level: 65
+EVs: 244 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 12 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Shadow Sneak
+- Sucker Punch
+- Snatch
+- Trick
+
+Dusknoir (M) @ Sitrus Berry
+Ability: Pressure
+Level: 70
+EVs: 248 HP / 252 Atk / 4 Def / 0 SpA / 4 SpD / 0 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Shadow Sneak
+- Earthquake
+- Will-O-Wisp
+- Confuse Ray
+
+Mismagius (M) @ Expert Belt
+Ability: Levitate
+Level: 70
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Shadow Ball
+- Energy Ball
+- Mystical Fire
+- Dazzling Gleam
+
+Froslass (M) @ Focus Sash
+Ability: Cursed Body
+Level: 72
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Hex
+- Frost Breath
+- Will-O-Wisp
+- Destiny Bond
+
+Gengar (M) @ Life Orb
+Ability: Cursed Body
+Level: 72
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Hex
+- Sludge Bomb
+- Focus Blast
+- Toxic

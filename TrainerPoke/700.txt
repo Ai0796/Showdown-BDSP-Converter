@@ -1,0 +1,65 @@
+Spiritomb (M) @ Sitrus Berry
+Ability: Pressure
+Level: 74
+EVs: 252 HP / 6 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe 
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Shadow Ball
+- Dark Pulse
+- Will-O-Wisp
+- Sucker Punch
+
+Roserade (M) @ Expert Belt
+Ability: Poison Point
+Level: 74
+EVs: 52 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 204 Spe 
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Dazzling Gleam
+- Shadow Ball
+- Sludge Bomb
+- Energy Ball
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+Level: 76
+EVs: 52 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 204 Spe 
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Air Slash
+- Dazzling Gleam
+- Aura Sphere
+- Thunder Wave
+
+Lucario @ Wise Glasses
+Ability: Inner Focus
+Level: 76
+EVs: 52 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 204 Spe 
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Aura Sphere
+- Dragon Pulse
+- Flash Cannon
+- Psychic
+
+Milotic (M) @ Flame Orb
+Ability: Marvel Scale
+Level: 74
+EVs: 252 HP / 0 Atk / 252 Def / 6 SpA / 0 SpD / 0 Spe 
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Recover
+- Mirror Coat
+- Ice Beam
+- Scald
+
+Garchomp (M) @ Yache Berry
+Ability: Rough Skin
+Level: 78
+EVs: 52 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 204 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Dragon Claw
+- Earthquake
+- Swords Dance
+- Poison Jab

@@ -1,0 +1,21 @@
+Barboach 
+Ability: Oblivious
+Level: 31
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Mud-Slap
+- Water Pulse
+- Aqua Tail
+- Muddy Water
+
+Gyarados 
+Ability: Intimidate
+Level: 31
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Leer
+- Ice Fang
+- Waterfall
+- Crunch

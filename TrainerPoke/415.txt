@@ -1,0 +1,21 @@
+Marill 
+Ability: Thick Fat
+Level: 21
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bashful Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tail Whip
+- Helping Hand
+- Aqua Tail
+- Play Rough
+
+Aipom 
+Ability: Pickup
+Level: 21
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Bashful Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Tail Whip
+- Sand Attack
+- Tickle
+- Fury Swipes

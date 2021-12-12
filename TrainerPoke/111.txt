@@ -1,0 +1,43 @@
+Snover 
+Ability: Snow Warning
+Level: 34
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Leer
+- Ice Shard
+- Razor Leaf
+- Icy Wind
+
+Snover 
+Ability: Snow Warning
+Level: 33
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Mist
+- Ice Shard
+- Razor Leaf
+- Icy Wind
+
+Golduck 
+Ability: Damp
+Level: 34
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Aqua Jet
+- Water Pulse
+- Zen Headbutt
+- Soak
+
+Snover 
+Ability: Snow Warning
+Level: 35
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hasty Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Ice Shard
+- Razor Leaf
+- Icy Wind
+- Ingrain

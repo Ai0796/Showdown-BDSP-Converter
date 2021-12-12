@@ -1,0 +1,32 @@
+Roselia 
+Ability: Poison Point
+Level: 20
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Calm Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Mega Drain
+- Leech Seed
+- Magical Leaf
+- Toxic Spikes
+
+Roselia 
+Ability: Poison Point
+Level: 22
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Calm Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Poison Sting
+- Mega Drain
+- Leech Seed
+- Magical Leaf
+
+Roselia 
+Ability: Poison Point
+Level: 24
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Calm Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Poison Sting
+- Mega Drain
+- Leech Seed
+- Magical Leaf

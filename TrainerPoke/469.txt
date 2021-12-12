@@ -1,0 +1,21 @@
+Zigzagoon 
+Ability: Pickup
+Level: 50
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Flail
+- Rest
+- Belly Drum
+- Headbutt
+
+Skarmory 
+Ability: Keen Eye
+Level: 56
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Impish Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Steel Wing
+- Brave Bird
+- Slash
+- Iron Defense

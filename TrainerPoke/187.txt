@@ -1,0 +1,54 @@
+Rapidash @ Wide Lens
+Ability: Flame Body
+Level: 58
+EVs: 12 HP / 60 Atk / 12 Def / 0 SpA / 12 SpD / 204 Spe 
+Jolly Nature
+IVs: 25 HP / 31 Atk / 25 Def / 0 SpA / 25 SpD / 31 Spe 
+- Flame Charge
+- Iron Tail
+- Poison Jab
+- Hypnosis
+
+Steelix @ Life Orb
+Ability: Sheer Force
+Level: 57
+EVs: 12 HP / 252 Atk / 0 Def / 12 SpA / 12 SpD / 0 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Thunder Fang
+- Fire Fang
+- Iron Tail
+- Crunch
+
+Drifblim @ Sitrus Berry
+Ability: Unburden
+Level: 58
+EVs: 12 HP / 60 Atk / 12 Def / 0 SpA / 12 SpD / 204 Spe 
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Strength Sap
+- Minimize
+- Baton Pass
+- Will-O-Wisp
+
+Lopunny @ Leftovers
+Ability: Cute Charm
+Level: 57
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Mirror Coat
+- High Jump Kick
+- Quick Attack
+- Fire Punch
+
+Infernape @ Focus Sash
+Ability: Iron Fist
+Level: 61
+EVs: 12 HP / 60 Atk / 0 Def / 0 SpA / 0 SpD / 204 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe 
+- Fire Punch
+- Thunder Punch
+- Close Combat
+- Mach Punch

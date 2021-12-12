@@ -1,0 +1,65 @@
+Honchkrow (M) @ Scope Lens
+Ability: Super Luck
+Level: 68
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Sucker Punch
+- Night Slash
+- Taunt
+- Roost
+
+Gorebyss (M) @ Wiki Berry
+Ability: Swift Swim
+Level: 69
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 6 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Hydro Pump
+- Ice Beam
+- Baton Pass
+- Shell Smash
+
+Froslass (M) @ Focus Sash
+Ability: Cursed Body
+Level: 70
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Hex
+- Frost Breath
+- Thunderbolt
+- Will-O-Wisp
+
+Sceptile @ White Herb
+Ability: Unburden
+Level: 69
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 6 Spe 
+Lonely Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Leaf Blade
+- Earthquake
+- Leaf Storm
+- Brick Break
+
+Ambipom (M) @ Life Orb
+Ability: Technician
+Level: 70
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Double Hit
+- Fake Out
+- Dual Chop
+- U-turn
+
+Infernape @ Expert Belt
+Ability: Blaze
+Level: 74
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Flare Blitz
+- Close Combat
+- Earthquake
+- U-turn

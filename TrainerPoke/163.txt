@@ -1,0 +1,32 @@
+Gible 
+Ability: Sand Veil
+Level: 46
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Sand Tomb
+- Sand Attack
+- Bulldoze
+- Dragon Claw
+
+Gyarados 
+Ability: Intimidate
+Level: 49
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Ice Fang
+- Waterfall
+- Crunch
+- Dragon Dance
+
+Gible 
+Ability: Sand Veil
+Level: 46
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Bite
+- Slash
+- Dragon Claw
+- Dig

@@ -1,0 +1,28 @@
+{
+    "TrainerID": 76,
+    "LabelTrType": "DP_Trainers_Type_TR_GINGALEADER1_01",
+    "Sex": 1,
+    "Group": 0,
+    "BallId": 4,
+    "FieldEncount": [
+        "02",
+        "02"
+    ],
+    "BtlEffId": [
+        30,
+        81,
+        82,
+        85
+    ],
+    "EyeBgm": "EV213",
+    "ModelID": "tr1072_00",
+    "Hand": 2,
+    "HoldBallHand": 2,
+    "HelpHand": 2,
+    "HelpHoldBallHand": 2,
+    "ThrowTime": 0.009999999776482582,
+    "CaptureThrowTime": 0.009999999776482582,
+    "LoseLoopTime": 2.0,
+    "TrainerEffect": "",
+    "Age": 2
+}

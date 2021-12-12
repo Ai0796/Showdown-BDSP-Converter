@@ -1,0 +1,32 @@
+Gastrodon 
+Ability: Storm Drain
+Level: 52
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Calm Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Mud-Slap
+- Recover
+- Water Pulse
+- Rain Dance
+
+Gastrodon 
+Ability: Storm Drain
+Level: 53
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Calm Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Recover
+- Ancient Power
+- Muddy Water
+- Earth Power
+
+Gastrodon 
+Ability: Storm Drain
+Level: 51
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Calm Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Recover
+- Body Slam
+- Muddy Water
+- Earth Power

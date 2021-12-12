@@ -1,0 +1,32 @@
+Glameow @ Life Orb  
+Ability: Limber  
+Level: 10  
+EVs: 236 Atk / 20 Def / 236 Spe  
+Jolly Nature  
+IVs: 0 HP  
+- Fake Out  
+- U-turn  
+- Sucker Punch  
+- Hypnosis  
+
+Shuppet @ Focus Sash  
+Ability: Frisk  
+Level: 9  
+EVs: 236 Atk  
+Brave Nature  
+IVs: 0 HP / 0 Def / 0 SpD / 0 Spe  
+- Trick Room  
+- Destiny Bond  
+- Taunt  
+- Shadow Sneak  
+
+Cherubi @ Eviolite  
+Ability: Chlorophyll  
+Level: 10  
+EVs: 80 Def / 180 SpA / 240 Spe  
+Modest Nature  
+- Sunny Day  
+- Growth  
+- Solar Beam  
+- Weather Ball  
+

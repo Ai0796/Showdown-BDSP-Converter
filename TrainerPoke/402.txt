@@ -1,0 +1,10 @@
+Cleffa 
+Ability: Cute Charm
+Level: 19
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Sing
+- Sweet Kiss
+- Disarming Voice
+- Encore

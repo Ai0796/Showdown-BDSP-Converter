@@ -1,0 +1,31 @@
+Happiny @ Eviolite  
+Ability: Natural Cure  
+Level: 11  
+EVs: 236 HP / 236 SpD  
+Calm Nature  
+- Thunder Wave  
+- Heal Bell  
+- Light Screen  
+- Flamethrower  
+
+Budew @ Eviolite  
+Ability: Natural Cure  
+Level: 12  
+EVs: 196 HP / 196 SpA / 36 SpD / 76 Spe  
+Modest Nature  
+- Spikes  
+- Giga Drain  
+- Sludge Bomb  
+- Rest  
+
+Azurill @ Life Orb  
+Ability: Huge Power  
+Level: 12  
+EVs: 116 HP / 196 Atk / 36 Def / 116 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Waterfall  
+- Return  
+- Encore  
+- Substitute  
+

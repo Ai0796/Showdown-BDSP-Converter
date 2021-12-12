@@ -1,0 +1,21 @@
+Golduck 
+Ability: Damp
+Level: 55
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Sassy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Hydro Pump
+- Zen Headbutt
+- Screech
+- Disable
+
+Sandslash 
+Ability: Sand Veil
+Level: 55
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Sand Tomb
+- Dig
+- Crush Claw
+- Slash

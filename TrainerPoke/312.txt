@@ -1,0 +1,32 @@
+Bronzor 
+Ability: Levitate
+Level: 41
+EVs: 68 HP / 0 Atk / 68 Def / 0 SpA / 68 SpD / 0 Spe 
+Relaxed Nature
+IVs: 15 HP / 0 Atk / 15 Def / 0 SpA / 15 SpD / 0 Spe 
+- Confuse Ray
+- Payback
+- Extrasensory
+- Light Screen
+
+Golbat (M) 
+Ability: Inner Focus
+Level: 41
+EVs: 68 HP / 0 Atk / 68 Def / 0 SpA / 68 SpD / 0 Spe 
+Modest Nature
+IVs: 15 HP / 0 Atk / 15 Def / 0 SpA / 15 SpD / 0 Spe 
+- Air Cutter
+- Haze
+- Giga Drain
+- Sludge Bomb
+
+Skuntank (M) @ Sitrus Berry
+Ability: Aftermath
+Level: 46
+EVs: 68 HP / 0 Atk / 68 Def / 0 SpA / 68 SpD / 0 Spe 
+Modest Nature
+IVs: 15 HP / 0 Atk / 15 Def / 0 SpA / 15 SpD / 0 Spe 
+- Flamethrower
+- Poison Gas
+- Belch
+- Snarl

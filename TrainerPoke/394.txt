@@ -1,0 +1,21 @@
+Dustox 
+Ability: Shield Dust
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Quirky Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Light Screen
+- Toxic
+- Bug Buzz
+- Protect
+
+Croagunk 
+Ability: Anticipation
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Revenge
+- Venoshock
+- Sucker Punch
+- Toxic

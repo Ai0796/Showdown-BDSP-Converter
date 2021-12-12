@@ -1,0 +1,65 @@
+Absol @ Razor Claw
+Ability: Super Luck
+Level: 68
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Megahorn
+- Psycho Cut
+- Stone Edge
+- Night Slash
+
+Kabutops @ Focus Sash
+Ability: Weak Armor
+Level: 69
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Rock Slide
+- Liquidation
+- Leech Life
+- Swords Dance
+
+Espeon @ Life Orb
+Ability: Magic Bounce
+Level: 70
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Psychic
+- Psyshock
+- Grass Knot
+- Dazzling Gleam
+
+Rotom @ Choice Specs
+Ability: Levitate
+Level: 69
+EVs: 6 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Leaf Storm
+- Thunderbolt
+- Volt Switch
+- Hex
+
+Porygon-Z @ Silk Scarf
+Ability: Adaptability
+Level: 70
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Tri Attack
+- Hyper Beam
+- Thunder Wave
+- Dark Pulse
+
+Infernape @ White Herb
+Ability: Blaze
+Level: 74
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe 
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe 
+- Earthquake
+- Close Combat
+- Flare Blitz
+- Acrobatics

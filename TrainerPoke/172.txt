@@ -1,0 +1,32 @@
+Riolu 
+Ability: Inner Focus
+Level: 33
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Hardy Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Feint
+- Metal Claw
+- Work Up
+- Rock Smash
+
+Staraptor 
+Ability: Intimidate
+Level: 34
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Growl
+- Quick Attack
+- Whirlwind
+- Aerial Ace
+
+Graveler 
+Ability: Sturdy
+Level: 35
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+Relaxed Nature
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe 
+- Sandstorm
+- Smack Down
+- Bulldoze
+- Stealth Rock
