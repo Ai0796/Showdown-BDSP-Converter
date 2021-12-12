@@ -189,18 +189,19 @@ for obj in env.objects:
                                     
                                 elif "EVS" in pokemon:
                                     EVdic = formatStat(pokemon[4:].split("/"))
+                                    ##Sets all values to 0 before setting to showdown
+                                    for key in japaneseStatList:
+                                        trainer["P"f"{pokeNum}Effort{key}"] = 0
                                     for key in EVdic.keys():
                                         trainer["P"f"{pokeNum}Effort{key}"] = EVdic[key]
                                         
                                 elif "IVS"  in pokemon:
-                                    hasIV = True
                                     IVdic = formatStat(pokemon[4:].split("/"))
+                                    ##Sets all values to 31 by default before setting to showdown
+                                    for key in japaneseStatList:
+                                        trainer["P"f"{pokeNum}Talent{key}"] = 31
                                     for key in IVdic.keys():
                                         trainer["P"f"{pokeNum}Talent{key}"] = IVdic[key]
-                                    
-                            if not hasIV:
-                                for i in japaneseStatList:
-                                    trainer["P"f"{pokeNum}Talent{i}"] = 31
                                         
                     except:
                         print("An Error has occured while packing "f"{fp}")

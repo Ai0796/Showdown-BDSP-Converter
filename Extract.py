@@ -117,8 +117,12 @@ for obj in env.objects:
                         evList = []
                         ivList = []
                         for i in range(len(japaneseStatList)):
-                            ivList.append(formatStat(trainer["P"f"{pokeNum}Talent"f"{japaneseStatList[i]}"], statList[i]))
-                            evList.append(formatStat(trainer["P"f"{pokeNum}Effort"f"{japaneseStatList[i]}"], statList[i]))
+                            ##IVs aren't shown if they're 31
+                            if trainer["P"f"{pokeNum}Talent"f"{japaneseStatList[i]}"] < 31:
+                                ivList.append(formatStat(trainer["P"f"{pokeNum}Talent"f"{japaneseStatList[i]}"], statList[i]))
+                            ##EVs aren't shown if they're 0
+                            if trainer["P"f"{pokeNum}Effort"f"{japaneseStatList[i]}"] > 0:
+                                evList.append(formatStat(trainer["P"f"{pokeNum}Effort"f"{japaneseStatList[i]}"], statList[i]))
                         
                         nature = natureList[trainer["P"f"{pokeNum}Seikaku"]]
                         
@@ -144,7 +148,7 @@ for obj in env.objects:
                         
                         pokeString += nature + " Nature\n"
                         
-                        if len(evList) > 0:
+                        if len(ivList) > 0:
                             pokeString += "IVs: "
                             for iv in ivList:
                                 pokeString += iv

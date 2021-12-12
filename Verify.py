@@ -62,14 +62,10 @@ statList = ["HP", "Atk", "Def", "SpA", "SpD", "Spe"]
 japaneseStatList = ["Hp", "Atk", "Def", "SpAtk", "SpDef", "Agi"]
 
 if not os.path.exists(src):
-    print("Error, masterdatas not found")
+    print("Error, masterdatasEDITED not found")
     print("Press enter to Exit...")
     input()
     sys.exit()
-
-for outputPath in fileList:
-    if not os.path.exists(outputPath):
-        os.makedirs(outputPath, 0o666)
 
 for obj in env.objects:
     if obj.path_id in pathList:
@@ -107,8 +103,10 @@ for obj in env.objects:
                         evList = []
                         ivList = []
                         for i in range(len(japaneseStatList)):
-                            ivList.append(formatStat(trainer["P"f"{pokeNum}Talent"f"{japaneseStatList[i]}"], statList[i]))
-                            evList.append(formatStat(trainer["P"f"{pokeNum}Effort"f"{japaneseStatList[i]}"], statList[i]))
+                            if trainer["P"f"{pokeNum}Talent"f"{japaneseStatList[i]}"] < 31:
+                                ivList.append(formatStat(trainer["P"f"{pokeNum}Talent"f"{japaneseStatList[i]}"], statList[i]))
+                            if trainer["P"f"{pokeNum}Effort"f"{japaneseStatList[i]}"] > 0:
+                                evList.append(formatStat(trainer["P"f"{pokeNum}Effort"f"{japaneseStatList[i]}"], statList[i]))
                         
                         nature = natureList[trainer["P"f"{pokeNum}Seikaku"]]
                         
@@ -134,7 +132,7 @@ for obj in env.objects:
                         
                         pokeString += nature + " Nature\n"
                         
-                        if len(evList) > 0:
+                        if len(ivList) > 0:
                             pokeString += "IVs: "
                             for iv in ivList:
                                 pokeString += iv
@@ -149,17 +147,15 @@ for obj in env.objects:
                 pokeString = pokeString[:-1] ##Removes the extra newline
                 fp = os.path.join(trainerPoke, f"{trainer['ID']}.txt")
                 with open(fp, "r", encoding = "utf8") as f:
-                    file = f.read()
-                    if file.rstrip() == pokeString.rstrip():
-                        pass
-                        # print("Trainer "f"{trainer['ID']} Is correct")
+                    file = f.read().rstrip().replace(" ", "").split("\n")
+                    pokeString = pokeString.rstrip().replace(" ", "").split("\n")
+                    if file == pokeString:
+                        print("Trainer "f"{trainer['ID']} Is correct")
                     else:
                         print("-----ERROR-----")
                         print("Trainer "f"{trainer['ID']} Is incorrect")
-                        print(pokeString.rstrip())
-                        print(file.rstrip())
+                
                     
-                    
-print("Finished Extracting masterdatas")
+print("Finished Verifying masterdatasEDITED")
 print("Press enter to Exit...")
 input()
