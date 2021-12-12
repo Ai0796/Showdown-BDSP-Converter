@@ -81,6 +81,10 @@ japaneseStatList = ["Hp", "Atk", "Def", "SpAtk", "SpDef", "Agi"]
 for outputPath in fileList:
     if not os.path.exists(outputPath):
         print("Error, "f"{outputPath} Does not exist")
+        
+    print("Press enter to Exit...")
+    input()
+    quit()
 
 for obj in env.objects:
     if obj.path_id in pathList:
@@ -220,5 +224,5 @@ with open("masterdatasEDITED", "wb") as f:
     f.write(env.file.save(packer = (64,2)))      
     
 print("Finished Repacking masterdatas into masterdatasEDITED")
-print("Press any Key to Exit...")
+print("Press enter to Exit...")
 input()
