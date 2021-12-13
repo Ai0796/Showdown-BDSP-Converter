@@ -82,12 +82,15 @@ for obj in env.objects:
                 with open(fp, "wt", encoding = "utf8") as f:
                     json.dump(trainer, f, ensure_ascii = False, indent = 4)
                     
-            for trainer in tree[trainerData]:
-                fp = os.path.join(trainerData, f"{trainer['TypeID']}.json")
+            for i in range(len(tree[trainerData])):
+                trainer = tree[trainerData][i]
+                fp = os.path.join(trainerData, f"{i}.json")
                 with open(fp, "wt", encoding = "utf8") as f:
                     json.dump(trainer, f, ensure_ascii = False, indent = 4)
                     
             for trainer in tree[trainerPoke]:
+                evList = []
+                ivList = []
                 pokeString = ""
                 for pokeNum in range(1, 7):
                     # print(dic["P"f"{pokeNum}Level"])

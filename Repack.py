@@ -101,8 +101,9 @@ for obj in env.objects:
                     except:
                         pass
                     
-            for trainer in tree[trainerData]:
-                fp = os.path.join(trainerData, f"{trainer['TypeID']}.json")
+            for i in range(len(tree[trainerData])):
+                trainer = tree[trainerData][i]
+                fp = os.path.join(trainerData, f"{i}.json")
                 with open(fp, "r", encoding = "utf8") as f:
                     try:
                         trainer = json.loads(f.read())
