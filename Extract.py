@@ -117,6 +117,8 @@ for obj in env.objects:
                         ability = abilityList[trainer["P"f"{pokeNum}Tokusei"]]
                         level = str(level)
                         
+                        shiny = trainer["P"f"{pokeNum}IsRare"]
+                        
                         evList = []
                         ivList = []
                         for i in range(len(japaneseStatList)):
@@ -141,6 +143,9 @@ for obj in env.objects:
                         pokeString += "Ability: " + ability + "\n"
                         
                         pokeString += "Level: " + level + "\n"
+                        
+                        if shiny == 1:
+                            pokeString += "Shiny: Yes\n" 
                         
                         if len(evList) > 0:
                             pokeString += "EVs: "

@@ -100,6 +100,8 @@ for obj in env.objects:
                         ability = abilityList[trainer["P"f"{pokeNum}Tokusei"]]
                         level = str(level)
                         
+                        shiny = trainer["P"f"{pokeNum}IsRare"]
+                        
                         evList = []
                         ivList = []
                         for i in range(len(japaneseStatList)):
@@ -122,6 +124,9 @@ for obj in env.objects:
                         pokeString += "Ability: " + ability + "\n"
                         
                         pokeString += "Level: " + level + "\n"
+                        
+                        if shiny == 1:
+                            pokeString += "Shiny: Yes\n"
                         
                         if len(evList) > 0:
                             pokeString += "EVs: "
@@ -147,13 +152,16 @@ for obj in env.objects:
                 pokeString = pokeString[:-1] ##Removes the extra newline
                 fp = os.path.join(trainerPoke, f"{trainer['ID']}.txt")
                 with open(fp, "r", encoding = "utf8") as f:
-                    file = f.read().rstrip().replace(" ", "").split("\n")
-                    pokeString = pokeString.rstrip().replace(" ", "").split("\n")
+                    file = f.read().rstrip().replace(" ", "")
+                    pokeString = pokeString.rstrip().replace(" ", "")
                     if file == pokeString:
-                        print("Trainer "f"{trainer['ID']} Is correct")
+                        # print("Trainer "f"{trainer['ID']} Is correct")
+                        pass
                     else:
                         print("-----ERROR-----")
                         print("Trainer "f"{trainer['ID']} Is incorrect")
+                        print(file)
+                        print(pokeString)
                 
                     
 print("Finished Verifying masterdatasEDITED")
