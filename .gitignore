@@ -1,7 +1,11 @@
-exe.win-amd64-3.9
 __pycache__
 gamesettings
 masterdatas
 masterdatasEDITED
+masterdatasMAXAI
 romfs*
 build*
+TrainerData*
+TrainerPoke*
+TrainerType*
+extract.spec

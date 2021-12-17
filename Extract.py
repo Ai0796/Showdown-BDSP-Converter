@@ -1,6 +1,7 @@
 import UnityPy
 import os
 import json
+import sys
 
 
 #PathIDs inside Unity
@@ -62,9 +63,9 @@ japaneseStatList = ["Hp", "Atk", "Def", "SpAtk", "SpDef", "Agi"]
 
 if not os.path.exists(src):
     print("Error, masterdatas not found")
-    print("Press any Key to Exit...")
+    print("Press enter to Exit...")
     input()
-    exit()
+    sys.exit()
 
 for outputPath in fileList:
     if not os.path.exists(outputPath):
@@ -81,12 +82,15 @@ for obj in env.objects:
                 with open(fp, "wt", encoding = "utf8") as f:
                     json.dump(trainer, f, ensure_ascii = False, indent = 4)
                     
-            for trainer in tree[trainerData]:
-                fp = os.path.join(trainerData, f"{trainer['TypeID']}.json")
+            for i in range(len(tree[trainerData])):
+                trainer = tree[trainerData][i]
+                fp = os.path.join(trainerData, f"{i}.json")
                 with open(fp, "wt", encoding = "utf8") as f:
                     json.dump(trainer, f, ensure_ascii = False, indent = 4)
                     
             for trainer in tree[trainerPoke]:
+                evList = []
+                ivList = []
                 pokeString = ""
                 for pokeNum in range(1, 7):
                     # print(dic["P"f"{pokeNum}Level"])
@@ -113,11 +117,17 @@ for obj in env.objects:
                         ability = abilityList[trainer["P"f"{pokeNum}Tokusei"]]
                         level = str(level)
                         
+                        shiny = trainer["P"f"{pokeNum}IsRare"]
+                        
                         evList = []
                         ivList = []
                         for i in range(len(japaneseStatList)):
-                            ivList.append(formatStat(trainer["P"f"{pokeNum}Talent"f"{japaneseStatList[i]}"], statList[i]))
-                            evList.append(formatStat(trainer["P"f"{pokeNum}Effort"f"{japaneseStatList[i]}"], statList[i]))
+                            ##IVs aren't shown if they're 31
+                            if trainer["P"f"{pokeNum}Talent"f"{japaneseStatList[i]}"] < 31:
+                                ivList.append(formatStat(trainer["P"f"{pokeNum}Talent"f"{japaneseStatList[i]}"], statList[i]))
+                            ##EVs aren't shown if they're 0
+                            if trainer["P"f"{pokeNum}Effort"f"{japaneseStatList[i]}"] > 0:
+                                evList.append(formatStat(trainer["P"f"{pokeNum}Effort"f"{japaneseStatList[i]}"], statList[i]))
                         
                         nature = natureList[trainer["P"f"{pokeNum}Seikaku"]]
                         
@@ -134,6 +144,9 @@ for obj in env.objects:
                         
                         pokeString += "Level: " + level + "\n"
                         
+                        if shiny == 1:
+                            pokeString += "Shiny: Yes\n" 
+                        
                         if len(evList) > 0:
                             pokeString += "EVs: "
                             for ev in evList:
@@ -143,7 +156,7 @@ for obj in env.objects:
                         
                         pokeString += nature + " Nature\n"
                         
-                        if len(evList) > 0:
+                        if len(ivList) > 0:
                             pokeString += "IVs: "
                             for iv in ivList:
                                 pokeString += iv
@@ -162,5 +175,5 @@ for obj in env.objects:
                     
                     
 print("Finished Extracting masterdatas")
-print("Press any Key to Exit...")
+print("Press enter to Exit...")
 input()
