@@ -115,7 +115,8 @@ for obj in env.objects:
                 if os.path.isfile(fp):
                     try:
                         with open(fp, "r", encoding = "utf8") as f:
-                            team = f.read().rstrip("\n").split("\n")
+                            teamStr = f.read()
+                            team = teamStr.rstrip("\n").split("\n")
                         # print(team)
                         breakpoints = [0]
                         for i in range(len(team)):
@@ -123,7 +124,7 @@ for obj in env.objects:
                                 # print("added point " + str(i))
                                 breakpoints.append(i + 1)
                             team[i] = team[i].strip()
-                        if len(breakpoints) > 1:
+                        if len(breakpoints) > 0:
                             breakpoints.append(len(team))
                                 
                         # print(breakpoints)
@@ -150,12 +151,13 @@ for obj in env.objects:
                             if "@" in firstLine:
                                 index = firstLine.index("@")
                                 trainer["P"f"{pokeNum}Item"] = itemList.index(firstLine[index + 1:].strip().upper())
-                                
-                            ##Ability
-                            trainer["P"f"{pokeNum}Tokusei"] = ability(secondLine.upper())
                             
-                            if "Level:" not in team[breakpoints[point] + 2]:
+                            if "Level:" not in team:
                                 trainer["P"f"{pokeNum}Level"] = 100 ##Level is 100 if not shown
+                                
+                            ##Sets all IVs to 31 by default
+                            for key in japaneseStatList:
+                                trainer["P"f"{pokeNum}Talent{key}"] = 31
                             
                             moveNum = 0
                             for line in range(breakpoints[point] + 1, breakpoints[point + 1]):
@@ -178,6 +180,9 @@ for obj in env.objects:
                                     moveNum += 1
                                     trainer["P"f"{pokeNum}Waza"f"{moveNum}"] = moveList.index(pokemon.strip(" -"))
                                     
+                                elif "ABILITY" in pokemon:
+                                    trainer["P"f"{pokeNum}Tokusei"] = ability(pokemon.upper())
+                                    
                                 elif "NATURE" in pokemon:
                                     trainer["P"f"{pokeNum}Seikaku"] = natureList.index(pokemon.split(" ")[0])
                                     
@@ -199,14 +204,16 @@ for obj in env.objects:
                                 elif "IVS"  in pokemon:
                                     IVdic = formatStat(pokemon[4:].split("/"))
                                     ##Sets all values to 31 by default before setting to showdown
-                                    for key in japaneseStatList:
-                                        trainer["P"f"{pokeNum}Talent{key}"] = 31
                                     for key in IVdic.keys():
                                         trainer["P"f"{pokeNum}Talent{key}"] = IVdic[key]
                                         
                     except:
                         print("An Error has occured while packing "f"{fp}")
                         print(traceback.format_exc())
+                        print(trainer['ID'])
+                        print(team)
+                        print(breakpoints)
+                        print(secondLine)
                                         
                 else:
                     print("Error "f"{fp} not found")                     
