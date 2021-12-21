@@ -116,6 +116,7 @@ for obj in env.objects:
                         for i in range(1, 5):
                             if trainer["P"f"{pokeNum}Waza"f"{i}"] > 0:
                                 trainerMoveList.append(moveList[trainer["P"f"{pokeNum}Waza"f"{i}"]])
+                                
                         
                         pokeString += monsno + " "
                         pokeString += gender
@@ -154,13 +155,16 @@ for obj in env.objects:
                 with open(fp, "r", encoding = "utf8") as f:
                     file = f.read().rstrip().replace(" ", "")
                     pokeString = pokeString.rstrip().replace(" ", "")
-                    if file == pokeString:
-                        # print("Trainer "f"{trainer['ID']} Is correct")
-                        pass
-                    else:
-                        print("-----ERROR-----")
+                    pokeStringSplit = pokeString.splitlines()
+                    for i in file.splitlines():
+                        if i in pokeStringSplit:
+                            pokeStringSplit.remove(i)
+                    if len(pokeStringSplit) != 0:
+                        print("----------ERROR----------")
                         print("Trainer "f"{trainer['ID']} Is incorrect")
+                        print(" \nFiles:")
                         print(file)
+                        print(" \nEditedMasterdatas:")
                         print(pokeString)
                 
                     

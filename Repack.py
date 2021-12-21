@@ -116,10 +116,11 @@ for obj in env.objects:
                     try:
                         with open(fp, "r", encoding = "utf8") as f:
                             teamStr = f.read()
-                            team = teamStr.rstrip("\n").split("\n")
+                            team = teamStr.rstrip(" \n").split("\n")
                         # print(team)
                         breakpoints = [0]
                         for i in range(len(team)):
+                            team[i] = team[i].rstrip()
                             if team[i] == "":
                                 # print("added point " + str(i))
                                 breakpoints.append(i + 1)
@@ -152,7 +153,7 @@ for obj in env.objects:
                                 index = firstLine.index("@")
                                 trainer["P"f"{pokeNum}Item"] = itemList.index(firstLine[index + 1:].strip().upper())
                             
-                            if "Level:" not in team:
+                            if "Level:" not in team[breakpoints[point]: breakpoints[point + 1]]:
                                 trainer["P"f"{pokeNum}Level"] = 100 ##Level is 100 if not shown
                                 
                             ##Sets all IVs to 31 by default
@@ -207,11 +208,21 @@ for obj in env.objects:
                                     for key in IVdic.keys():
                                         trainer["P"f"{pokeNum}Talent{key}"] = IVdic[key]
                                         
+                            for moveReplace in range(moveNum + 1, 5):
+                                trainer["P"f"{pokeNum}Waza"f"{moveReplace}"] = 0            
+                                        
+                        for pokeReplace in range(pokeNum + 1, 7):
+                            trainer["P"f"{pokeReplace}MonsNo"] = 0
+                            trainer["P"f"{pokeReplace}Level"] = 0
+                            
+                       
+                                        
                     except:
                         print("An Error has occured while packing "f"{fp}")
                         print(traceback.format_exc())
                         print(trainer['ID'])
                         print(team)
+                        print(teamStr)
                         print(breakpoints)
                         print(secondLine)
                                         
