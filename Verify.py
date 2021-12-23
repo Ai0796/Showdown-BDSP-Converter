@@ -45,11 +45,20 @@ def getNatureList():
     filepath = "Resources//natures.txt"
     with open(filepath, "r", encoding = "utf8") as f:
         return f.read().splitlines()
-        
+    
+    
+def getLegalMoveList():   
+    filepath = "Resources//moveIndex.txt"
+    with open(filepath, "r", encoding = "utf8") as f:
+        return f.read().splitlines()
+         
 def formatStat(stat, name):
     returnString = ""
     returnString += str(stat) + " " + name + " / "
     return returnString
+
+
+    
     
 
 abilityList = getAbilityList()
@@ -57,6 +66,7 @@ moveList = getMoveList()
 itemList = getItemList()
 natureList = getNatureList()
 pokeList = getPokemonList()
+legalMoveList = getLegalMoveList()
 genderList = ["", "(M) ", "(F) ", ""]
 statList = ["HP", "Atk", "Def", "SpA", "SpD", "Spe"]
 japaneseStatList = ["Hp", "Atk", "Def", "SpAtk", "SpDef", "Agi"]
@@ -96,6 +106,10 @@ for obj in env.objects:
                         item = ""
                         if trainer["P"f"{pokeNum}Item"] > 0:
                             item = "@ " + itemList[trainer["P"f"{pokeNum}Item"]]
+                            if trainer["P"f"{pokeNum}Item"] > 428:
+                                print("----------ERROR----------")
+                                print("Item in Trainer "f"{trainer['ID']} Is incorrect")
+                                print(moveList[trainer["P"f"{pokeNum}Waza"f"{i}"]], "may be key Item, or illegal")
                         
                         ability = abilityList[trainer["P"f"{pokeNum}Tokusei"]]
                         level = str(level)
@@ -115,6 +129,10 @@ for obj in env.objects:
                         trainerMoveList = []
                         for i in range(1, 5):
                             if trainer["P"f"{pokeNum}Waza"f"{i}"] > 0:
+                                if str(trainer["P"f"{pokeNum}Waza"f"{i}"]) not in legalMoveList:
+                                    print("----------ERROR----------")
+                                    print("Move in Trainer "f"{trainer['ID']} Is incorrect")
+                                    print(moveList[trainer["P"f"{pokeNum}Waza"f"{i}"]], "is illegal")
                                 trainerMoveList.append(moveList[trainer["P"f"{pokeNum}Waza"f"{i}"]])
                                 
                         
