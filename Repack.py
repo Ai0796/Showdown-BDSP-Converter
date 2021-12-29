@@ -159,6 +159,10 @@ for obj in env.objects:
                             ##Sets all IVs to 31 by default
                             for key in japaneseStatList:
                                 trainer["P"f"{pokeNum}Talent{key}"] = 31
+                                
+                            ##Sets all values to 0 by default
+                            for key in japaneseStatList:
+                                trainer["P"f"{pokeNum}Effort{key}"] = 0
                             
                             moveNum = 0
                             for line in range(breakpoints[point] + 1, breakpoints[point + 1]):
@@ -196,9 +200,6 @@ for obj in env.objects:
                                     
                                 elif "EVS" in pokemon:
                                     EVdic = formatStat(pokemon[4:].split("/"))
-                                    ##Sets all values to 0 before setting to showdown
-                                    for key in japaneseStatList:
-                                        trainer["P"f"{pokeNum}Effort{key}"] = 0
                                     for key in EVdic.keys():
                                         trainer["P"f"{pokeNum}Effort{key}"] = EVdic[key]
                                         

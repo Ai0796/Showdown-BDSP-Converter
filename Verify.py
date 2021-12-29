@@ -105,11 +105,11 @@ for obj in env.objects:
                         gender = genderList[trainer["P"f"{pokeNum}Sex"]]
                         item = ""
                         if trainer["P"f"{pokeNum}Item"] > 0:
-                            item = "@ " + itemList[trainer["P"f"{pokeNum}Item"]]
-                            if trainer["P"f"{pokeNum}Item"] > 428:
-                                print("----------ERROR----------")
-                                print("Item in Trainer "f"{trainer['ID']} Is incorrect")
-                                print(moveList[trainer["P"f"{pokeNum}Waza"f"{i}"]], "may be key Item, or illegal")
+                            item = itemList[trainer["P"f"{pokeNum}Item"]]
+                            # if trainer["P"f"{pokeNum}Item"] > 428:
+                            #     print("----------ERROR----------")
+                            #     print("Item in Trainer "f"{trainer['ID']} Is incorrect")
+                            #     print(item, "may be key Item, or illegal")
                         
                         ability = abilityList[trainer["P"f"{pokeNum}Tokusei"]]
                         level = str(level)
@@ -177,13 +177,13 @@ for obj in env.objects:
                     for i in file.splitlines():
                         if i in pokeStringSplit:
                             pokeStringSplit.remove(i)
-                    if len(pokeStringSplit) != 0:
+                    if len(pokeStringSplit) != 0 and "IVS" not in pokeString[0].upper():
                         print("----------ERROR----------")
                         print("Trainer "f"{trainer['ID']} Is incorrect")
-                        print(" \nFiles:")
-                        print(file)
-                        print(" \nEditedMasterdatas:")
-                        print(pokeString)
+                        # print(" \nFiles:")
+                        # print(file)
+                        # print(" \nEditedMasterdatas:")
+                        # print(pokeString)
                 
                     
 print("Finished Verifying masterdatasEDITED")
