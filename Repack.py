@@ -46,6 +46,18 @@ def getNatureList():
     filepath = "Resources//natures.txt"
     with open(filepath, "r", encoding = "utf8") as f:
         return f.read().upper().splitlines()
+    
+def getFormDic():
+    filepath = "Resources//pokemonForms.txt"
+    formDic = {}
+    with open(filepath, "r", encoding = "utf8") as f:
+        for line in f.read().splitlines():
+            lineSplit = line.split(",")
+            monsno = int(lineSplit[0])
+            formno = int(lineSplit[1])
+            pokeName = lineSplit[2].upper()
+            formDic[pokeName] = (monsno, formno)
+    return formDic
         
 def formatStat(stat):
     dic = {}
@@ -69,11 +81,14 @@ def level(line3):
     return line3[7:]
 
 
+
 abilityList = getAbilityList()
 moveList = getMoveList()
 itemList = getItemList()
 natureList = getNatureList()
 pokeList = getPokemonList()
+formDic = getFormDic()
+formDicKeys = list(formDic.keys())
     
 genderList = ["", "(M)", "(F)", ""]
 statList = ["HP", "ATK", "DEF", "SPA", "SPD", "SPE"]
@@ -139,11 +154,25 @@ for obj in env.objects:
                             firstLine = team[breakpoints[point]]
                             secondLine = team[breakpoints[point] + 1]
                             try:
-                                trainer["P"f"{pokeNum}MonsNo"] = name(firstLine.split(" ")[0].upper())
+                                
+                                if firstLine.split(" ")[0].upper() in formDicKeys:
+                                    ##Used to find pokemon with forms
+                                    
+                                    monsno = formDic[firstLine.split(" ")[0].upper()][0]
+                                    formno = formDic[firstLine.split(" ")[0].upper()][1]
+                                    trainer["P"f"{pokeNum}MonsNo"] = monsno
+                                    trainer["P"f"{pokeNum}FormNo"] = formno
+                                    
+                                else:
+                                    trainer["P"f"{pokeNum}MonsNo"] = name(firstLine.split(" ")[0].upper())
+                                    trainer["P"f"{pokeNum}FormNo"] = 0
+                                
                             except:
                                 ##Pokemon Like Mr. Mime exist with a space in between AND IT RUINS EVERYTHING AAAAAAAAAAAAAAA
                                 
                                 trainer["P"f"{pokeNum}MonsNo"] = name(firstLine.split(" ")[0].upper() + " " + firstLine.split(" ")[1].upper())
+                                trainer["P"f"{pokeNum}FormNo"] = 0
+                                
                             ##Gender
                             if "(" in firstLine:
                                 index = firstLine.index("(")

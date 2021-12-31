@@ -9,7 +9,7 @@ import sys
 Trainer_Table = 676024375065692598
 pathList = [Trainer_Table]
 
-src = "masterdatasEDITED"
+src = "masterdatas"
 
 env = UnityPy.load(src)
 
@@ -45,13 +45,12 @@ def getNatureList():
     filepath = "Resources//natures.txt"
     with open(filepath, "r", encoding = "utf8") as f:
         return f.read().splitlines()
-    
-    
-def getLegalMoveList():   
-    filepath = "Resources//moveIndex.txt"
-    with open(filepath, "r", encoding = "utf8") as f:
-        return f.read().splitlines()
-    
+        
+def formatStat(stat, name):
+    returnString = ""
+    returnString += str(stat) + " " + name + " / "
+    return returnString
+
 def getFormDic():
     filepath = "Resources//pokemonForms.txt"
     formDic = {}
@@ -63,14 +62,6 @@ def getFormDic():
             pokeName = lineSplit[2]
             formDic[(monsno, formno)] = pokeName
     return formDic
-         
-def formatStat(stat, name):
-    returnString = ""
-    returnString += str(stat) + " " + name + " / "
-    return returnString
-
-
-    
     
 
 abilityList = getAbilityList()
@@ -78,7 +69,6 @@ moveList = getMoveList()
 itemList = getItemList()
 natureList = getNatureList()
 pokeList = getPokemonList()
-legalMoveList = getLegalMoveList()
 formDic = getFormDic()
 formDicKeys = list(formDic.keys())
 genderList = ["", "(M) ", "(F) ", ""]
@@ -86,10 +76,14 @@ statList = ["HP", "Atk", "Def", "SpA", "SpD", "Spe"]
 japaneseStatList = ["Hp", "Atk", "Def", "SpAtk", "SpDef", "Agi"]
 
 if not os.path.exists(src):
-    print("Error, masterdatasEDITED not found")
+    print("Error, masterdatas not found")
     print("Press enter to Exit...")
     input()
     sys.exit()
+
+for outputPath in fileList:
+    if not os.path.exists(outputPath):
+        os.makedirs(outputPath, 0o666)
 
 for obj in env.objects:
     if obj.path_id in pathList:
@@ -97,7 +91,20 @@ for obj in env.objects:
 
         #Exports Pokemon
         if tree['m_Name'] == "TrainerTable":
+            for trainer in tree[trainerType]:
+                fp = os.path.join(trainerType, f"{trainer['TrainerID']}.json")
+                with open(fp, "wt", encoding = "utf8") as f:
+                    json.dump(trainer, f, ensure_ascii = False, indent = 4)
+                    
+            for i in range(len(tree[trainerData])):
+                trainer = tree[trainerData][i]
+                fp = os.path.join(trainerData, f"{i}.json")
+                with open(fp, "wt", encoding = "utf8") as f:
+                    json.dump(trainer, f, ensure_ascii = False, indent = 4)
+                    
             for trainer in tree[trainerPoke]:
+                evList = []
+                ivList = []
                 pokeString = ""
                 for pokeNum in range(1, 7):
                     # print(dic["P"f"{pokeNum}Level"])
@@ -134,10 +141,6 @@ for obj in env.objects:
                         item = ""
                         if trainer["P"f"{pokeNum}Item"] > 0:
                             item = "@ " + itemList[trainer["P"f"{pokeNum}Item"]]
-                            # if trainer["P"f"{pokeNum}Item"] > 428:
-                            #     print("----------ERROR----------")
-                            #     print("Item in Trainer "f"{trainer['ID']} Is incorrect")
-                            #     print(item, "may be key Item, or illegal")
                         
                         ability = abilityList[trainer["P"f"{pokeNum}Tokusei"]]
                         level = str(level)
@@ -147,8 +150,10 @@ for obj in env.objects:
                         evList = []
                         ivList = []
                         for i in range(len(japaneseStatList)):
+                            ##IVs aren't shown if they're 31
                             if trainer["P"f"{pokeNum}Talent"f"{japaneseStatList[i]}"] < 31:
                                 ivList.append(formatStat(trainer["P"f"{pokeNum}Talent"f"{japaneseStatList[i]}"], statList[i]))
+                            ##EVs aren't shown if they're 0
                             if trainer["P"f"{pokeNum}Effort"f"{japaneseStatList[i]}"] > 0:
                                 evList.append(formatStat(trainer["P"f"{pokeNum}Effort"f"{japaneseStatList[i]}"], statList[i]))
                         
@@ -157,12 +162,7 @@ for obj in env.objects:
                         trainerMoveList = []
                         for i in range(1, 5):
                             if trainer["P"f"{pokeNum}Waza"f"{i}"] > 0:
-                                if str(trainer["P"f"{pokeNum}Waza"f"{i}"]) not in legalMoveList:
-                                    print("----------ERROR----------")
-                                    print("Move in Trainer "f"{trainer['ID']} Is incorrect")
-                                    print(moveList[trainer["P"f"{pokeNum}Waza"f"{i}"]], "is illegal")
                                 trainerMoveList.append(moveList[trainer["P"f"{pokeNum}Waza"f"{i}"]])
-                                
                         
                         pokeString += monsno + " "
                         pokeString += gender
@@ -173,7 +173,7 @@ for obj in env.objects:
                         pokeString += "Level: " + level + "\n"
                         
                         if shiny == 1:
-                            pokeString += "Shiny: Yes\n"
+                            pokeString += "Shiny: Yes\n" 
                         
                         if len(evList) > 0:
                             pokeString += "EVs: "
@@ -198,23 +198,10 @@ for obj in env.objects:
                 
                 pokeString = pokeString[:-1] ##Removes the extra newline
                 fp = os.path.join(trainerPoke, f"{trainer['ID']}.txt")
-                with open(fp, "r", encoding = "utf8") as f:
-                    file = f.read().rstrip().replace(" ", "")
-                    pokeString = pokeString.rstrip().replace(" ", "")
-                    pokeStringSplit = pokeString.splitlines()
-                    for i in file.splitlines():
-                        if i in pokeStringSplit:
-                            pokeStringSplit.remove(i)
-                    if len(pokeStringSplit) != 0 and "IVS" not in pokeString[0].upper():
-                        print("----------ERROR----------")
-                        print("Trainer "f"{trainer['ID']} Is incorrect")
-                        print(pokeStringSplit)
-                        # print(" \nFiles:")
-                        # print(file)
-                        # print(" \nEditedMasterdatas:")
-                        # print(pokeString)
-                
+                with open(fp, "wt", encoding = "utf8") as f:
+                    f.write(pokeString)        
                     
-print("Finished Verifying masterdatasEDITED")
+                    
+print("Finished Extracting masterdatas")
 print("Press enter to Exit...")
 input()
