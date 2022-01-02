@@ -130,9 +130,7 @@ for obj in env.objects:
                             
                             monsno = trainer["P"f"{pokeNum}MonsNo"]
                             form =  trainer["P"f"{pokeNum}FormNo"]
-                            print((monsno, form))
                             if (monsno, form) in formDicKeys:
-                                print("In Keys")
                                 monsno = formDic[(monsno, form)]
                             else:
                                 monsno = pokeList[trainer["P"f"{pokeNum}MonsNo"]]
