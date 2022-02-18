@@ -91,10 +91,10 @@ for obj in env.objects:
 
         #Exports Pokemon
         if tree['m_Name'] == "TrainerTable":
-            for trainer in tree[trainerType]:
-                fp = os.path.join(trainerType, f"{trainer['TrainerID']}.json")
-                with open(fp, "wt", encoding = "utf8") as f:
-                    json.dump(trainer, f, ensure_ascii = False, indent = 4)
+            # for trainer in tree[trainerType]:
+            #     fp = os.path.join(trainerType, f"{trainer['TrainerID']}.json")
+            #     with open(fp, "wt", encoding = "utf8") as f:
+            #         json.dump(trainer, f, ensure_ascii = False, indent = 4)
                     
             for i in range(len(tree[trainerData])):
                 trainer = tree[trainerData][i]

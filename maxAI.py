@@ -27,7 +27,12 @@ for obj in env.objects:
     if obj.path_id in pathList:
         tree = obj.read_typetree()
 
+        i = 0
         for trainer in tree[trainerData]:
+            i += 1
+            if trainer["AIBit"] == 25:
+                print(i)
+            # print(trainer["AIBit"])
             trainer["AIBit"] = 111
             
         obj.save_typetree(tree)
