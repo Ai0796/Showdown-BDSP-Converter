@@ -9,16 +9,16 @@ Pokemon Showdown Format (Which is the format they use to import and export pokem
 - pressing the import/export button right next to the same
 
 ### You should end up with something that looks like:
-Garchomp (F) @ Yache Berry
-Ability: Rough Skin
-Level: 78
-EVs: 52 HP / 252 Atk / 204 Spe 
-Jolly Nature
-IVs: 0 SpA 
-- Dragon Claw
-- Earthquake
-- Swords Dance
-- Poison Jab
+- Garchomp (F) @ Yache Berry
+- Ability: Rough Skin
+- Level: 78
+- EVs: 52 HP / 252 Atk / 204 Spe 
+- Jolly Nature
+- IVs: 0 SpA 
+- \- Dragon Claw
+- \- Earthquake
+- \- Swords Dance
+- \- Poison Jab
 
 (That's Cynthia's Garchomp as an example)
 
